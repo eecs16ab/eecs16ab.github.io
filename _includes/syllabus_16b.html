@@ -1,0 +1,22 @@
+<table class="syllabus-table">
+    <thead>
+      <tr>
+        <th>Lecture Topic</th>
+        <th>Lecture Recording</th>
+        <th>Note</th>
+        <th>Discussion</th>
+        <th>Homework</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for lecture in site.data.syllabus_16b.syllabus %}
+        <tr>
+          <td>{{ lecture.topic }}</td>
+          <td><a href="{{ lecture.Lecture Recording }}">Link</a></td>
+          <td><a href="{{ lecture.Note }}">Download</a></td>
+          <td>{{ lecture.Discussion }}</td>
+          <td>{{ lecture.Homework }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
