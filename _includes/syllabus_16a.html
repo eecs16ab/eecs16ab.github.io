@@ -12,7 +12,11 @@
       {% for lecture in site.data.syllabus_16a.syllabus %}
         <tr>
           <td>{{ lecture.topic }}</td>
+          {% if lecture.LectureRecording %}
           <td><a href="{{ lecture.LectureRecording }}">Link</a></td>
+          {% else %}
+          <td>No Recording Available</td>
+          {% endif %}
           <td><a href="{{ lecture.Note }}">Download</a></td>
           <td>{{ lecture.Discussion }}</td>
           <td>{{ lecture.Homework }}</td>
