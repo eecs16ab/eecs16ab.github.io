@@ -1,139 +1,207 @@
 syllabus:
   - topic: "Lecture 1: Introduction to Imaging"
     LectureRecording: "https://youtu.be/Zt4tAHCaGnQ"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1VFOdaTBPIx9YM9S9PDg_IatSb_xvfUDI/view?usp=share_link
+        number: "0"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 2: Tomography and Linear Equations"
     LectureRecording: "https://youtu.be/vutC0-QjcaY"
-    Note: ""
+    Note:
+      - link: https://drive.google.com/file/d/1vGJleg3q8L8dhIgQNp-TrVyRyNbElFsR/view?usp=share_link
+        number: "1A"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 3: Gaussian Elimination"
     LectureRecording: "https://youtu.be/3zgdKCxOgI8"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1vGJleg3q8L8dhIgQNp-TrVyRyNbElFsR/view?usp=share_link
+        number: "1A"
+      - link: https://drive.google.com/file/d/1H2fOxJY5JVKFfg5VLbZ_vjDkMouNkjS5/view?usp=share_link
+        number: "1B"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 4: Span, linear independence and dependence"
     LectureRecording: "https://youtu.be/KZtVzchuqMM"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1TKg1WrdXY73CmLAOlaU21tHo0Uk4fBZT/view?usp=share_link
+        number: "2A"
+      - link: https://drive.google.com/file/d/1P0ypm1SeM97NUiYXSytbljdqokGuBkZ1/view?usp=share_link
+        number: "2B"
+      - link: https://drive.google.com/file/d/17NTl6kq1q8Olo2_mXl-N-bVDLGTGkrCt/view?usp=share_link
+        number: "4"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 5: Span, linear independence and dependence (continued)"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1BXor0rf26Y4WjZD4x8DBpcYF2uRcWR-y/view?usp=share_link
+        number: "11A"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 6: Linear Transformations, Matrix multiplication"
     LectureRecording: "https://youtu.be/B9MMeI8Fs5g"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1G5Ye8TDJ17XiqLeZHJ7MsM_h2cKiwrsP/view?usp=share_link
+        number: "3"
+      - link: https://drive.google.com/file/d/19wuCHn5SHt1SMthnWhOXqps4YKHVyI2e/view?usp=share_link
+        number: "5"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 7: Inversion"
     LectureRecording: "https://youtu.be/GRTsAS_bEhs"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/19wuCHn5SHt1SMthnWhOXqps4YKHVyI2e/view?usp=share_link
+        number: "5"
+      - link: https://drive.google.com/file/d/1HKuGZqkjvUsa7eFSp_yOaZbz67_e1f2E/view?usp=share_link
+        number: "6"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 8: Vector Spaces: Null spaces and Columnspaces"
     LectureRecording: "https://youtu.be/W-2pe8WR-p8"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1nmrfpMJpg-ccKfYNCPFYq3yfOzGH8JNj/view?usp=share_link
+        number: "7"
+      - link: https://drive.google.com/file/d/1l5FbzadVNG42r9zNgNJPItUkEnI01CQ5/view?usp=share_link
+        number: "8"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 9: Page Rank, Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/lBOHOMHytrE"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1nmrfpMJpg-ccKfYNCPFYq3yfOzGH8JNj/view?usp=share_link
+        number: "7"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 10: Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/2oJkJqT0VX0"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1l5FbzadVNG42r9zNgNJPItUkEnI01CQ5/view?usp=share_link
+        number: "8"
+      - link: https://drive.google.com/file/d/16Y74O_KBYEPeSki13oI4yvh7Du2ti1Y9/view?usp=share_link
+        number: "9"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 11: More Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/07TPkBhGETU"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/16Y74O_KBYEPeSki13oI4yvh7Du2ti1Y9/view?usp=share_link
+        number: "9"
     Discussion: ""
     Homework: ""
   - topic: "No Lecture"
-    Note: ""
+    Note: 
     Discussion: ""
     Homework: ""
   - topic: "Lecture 12: Node Voltage Analysis, Voltage Divider"
     LectureRecording: "https://youtu.be/fHq6GQ84Lko"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1BXor0rf26Y4WjZD4x8DBpcYF2uRcWR-y/view?usp=share_link
+        number: "11A"
+      - link: https://drive.google.com/file/d/1RKbBfuD3lZZ8b4H2ikgN4z6GlngpeIui/view?usp=share_link
+        number: "11B"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 13: 1D Touchscreen, Power and Voltage/Current Measurement"
     LectureRecording: "https://youtu.be/Wec43HPHku8"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1RKbBfuD3lZZ8b4H2ikgN4z6GlngpeIui/view?usp=share_link
+        number: "11B"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 14: 2D Resistive Touchscreens"
     LectureRecording: "https://youtu.be/xKNJvf5NX0U"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1yQ-cTrdiIq90KywHhi0FjvpXpVRvyrzN/view?usp=share_link
+        number: "12"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 15: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/4BNZbiZGkOg"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1E1m4beLCq1wyA5HI1WT990TKI-81d5Ec/view?usp=share_link
+        number: "13"
     Discussion: ""
     Homework: ""
-  - topic: "Lecture 16: Capacitors"
+  - topic: "Lecture 16: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/c-_x3J24Z3A"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1PLNJSAj2rigMObOEifbQc6sOcgjtdISp/view?usp=share_link
+        number: "14"
     Discussion: ""
     Homework: ""
-  - topic: "Lecture 17: Capacitors (continued)"
+  - topic: "Lecture 17: Capacitors"
     LectureRecording: "https://youtu.be/C99Jv-At2O0"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1QVs1rohKUWKIcqRqCWxtUQ_3yEmEGQaC/view?usp=share_link
+        number: "15"
     Discussion: ""
     Homework: ""
-  - topic: "Lecture 18: Capacitors and Capacitive Touchscreen"
+  - topic: "Lecture 18: Capacitors"
     LectureRecording: "https://youtu.be/OBsjxz5jLv4"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1X7Le-hcnps0WEaB660BJs0GZnCCHWUad/view?usp=share_link
+        number: "16"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 19: Capacitive Touchscreen and Capacitance Modeling"
     LectureRecording: "https://youtu.be/aEblAB3tJJ0"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1eght848kyXPOVlE6Ym5FBu1Z94LtIVQe/view?usp=share_link
+        number: "17"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 20: Op-amps and Negative Feedback"
     LectureRecording: "https://youtu.be/gTYcItXIYWk"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1eght848kyXPOVlE6Ym5FBu1Z94LtIVQe/view?usp=share_link
+        number: "17"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 21: Op-amp circuit analysis"
     LectureRecording: "https://youtu.be/ZlzZsJs_HYk"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1dJWX0OZgjeDc1MpcRW5IYTmN94IFaP_i/view?usp=share_link
+        number: "18"
     Discussion: ""
     Homework: ""
   - topic: "No Lecture"
-    Note: ""
+    Note: 
     Discussion: ""
     Homework: ""
   - topic: "Lecture 22: Circuit Design Examples"
     LectureRecording: "https://youtu.be/67hN9Cpd07M"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1WfTTinLSCm9I9vrmxPS_D-mW-5jftjQv/view?usp=share_link
+        number: "19"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 23: Introduction to GPS"
     LectureRecording: "https://youtu.be/esRtmxm5i50"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/17mqAH2rdFKLZualLMJC3FV3V-aKNZDUN/view?usp=share_link
+        number: "20"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 24: Correlation and Classification"
     LectureRecording: "https://youtu.be/N0bj1icrJiA"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1xHa4hWXmD0YaxzOiPzN8Zbmf8i4BJ74y/view?usp=share_link
+        number: "21"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 25: Least Squares Algorithm"
     LectureRecording: "https://youtu.be/GsmHHW1csTU"
-    Note: ""
+    Note: 
+      - link: https://drive.google.com/file/d/1Kj9BJ-upJh0oLkt8Hx7wx2nfip1Kg3sx/view?usp=share_link
+        number: "22"
+      - link: https://drive.google.com/file/d/17voNwsmFQhSxWL69Bc9fVoPlrhgSmcsA/view?usp=share_link
+        number: "23"
     Discussion: ""
     Homework: ""
   - topic: "Lecture 26: Least Squares Algorithm (continued)"
     LectureRecording: "https://youtu.be/NdAKhzmawkY"
-    Note: ""
+    Note: 
     Discussion: ""
     Homework: ""

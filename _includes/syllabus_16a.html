@@ -1,26 +1,36 @@
 <table class="syllabus-table">
-    <thead>
-      <tr>
-        <th>Lecture Topic</th>
-        <th>Lecture Recording</th>
-        <th>Note</th>
-        <th>Discussion</th>
-        <th>Homework</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for lecture in site.data.syllabus_16a.syllabus %}
-        <tr>
-          <td>{{ lecture.topic }}</td>
-          {% if lecture.LectureRecording %}
-          <td><a href="{{ lecture.LectureRecording }}">Link</a></td>
-          {% else %}
-          <td>No Recording Available</td>
-          {% endif %}
-          <td><a href="{{ lecture.Note }}">Download</a></td>
-          <td>{{ lecture.Discussion }}</td>
-          <td>{{ lecture.Homework }}</td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+  <thead>
+    <tr>
+      <th>Lecture Topic</th>
+      <th>Lecture Recording</th>
+      <th>Note</th>
+      <th>Discussion</th>
+      <th>Homework</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for lecture in site.data.syllabus_16a.syllabus %}
+    <tr>
+      <td>{{ lecture.topic }}</td>
+      {% if lecture.LectureRecording %}
+      <td><a href="{{ lecture.LectureRecording }}">Link</a></td>
+      {% else %}
+      <td>No Recording Available</td>
+      {% endif %} 
+      
+      {% if lecture.Note %}
+      <td>
+        {% for note in lecture.Note %}
+        <a href="{{ note.link }}">Note {{note.number}}</a><br/>
+        {% endfor %}
+      </td>
+      {% else %}
+      <td>No Notes</td>
+      {% endif %}
+
+      <td>{{ lecture.Discussion }}</td>
+      <td>{{ lecture.Homework }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
