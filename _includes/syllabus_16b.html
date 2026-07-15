@@ -15,7 +15,14 @@
           <td><a href="{{ lecture.Lecture Recording }}">Link</a></td>
           <td><a href="{{ lecture.Note }}">Download</a></td>
           <td>{{ lecture.Discussion }}</td>
-          <td>{{ lecture.Homework }}</td>
+          <td>
+            {% if lecture.HomeworkPDF != empty %}
+            <a href="{{ lecture.HomeworkPDF }}">PDF</a><br/>
+            {% endif %}
+            {% if lecture.Homework != empty %}
+            <a href="{{ lecture.Homework }}">Notebook</a>
+            {% endif %}
+          </td>
         </tr>
       {% endfor %}
     </tbody>

@@ -5,14 +5,20 @@ syllabus:
       - link: https://drive.google.com/file/d/1VFOdaTBPIx9YM9S9PDg_IatSb_xvfUDI/view?usp=share_link
         number: "0"
     Discussion: ""
-    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw1"
+    HomeworkNumber: 0
+    HomeworkRowspan: 1
+    HomeworkPDF: "https://drive.google.com/file/d/1vNVpsAo8JKC15zPRxcyK929sjm4PcQxQ/view?usp=sharing"
+    Homework: ""
   - topic: "Lecture 2: Tomography and Linear Equations"
     LectureRecording: "https://youtu.be/vutC0-QjcaY"
     Note:
       - link: https://drive.google.com/file/d/1vGJleg3q8L8dhIgQNp-TrVyRyNbElFsR/view?usp=share_link
         number: "1A"
     Discussion: ""
-    Homework: ""
+    HomeworkNumber: 1
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1Vq8dd9QVnrs7B_Tetsqed_Dky1VG9EcD/view?usp=sharing"
+    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw1"
   - topic: "Lecture 3: Gaussian Elimination"
     LectureRecording: "https://youtu.be/3zgdKCxOgI8"
     Note: 
@@ -21,7 +27,8 @@ syllabus:
       - link: https://drive.google.com/file/d/1H2fOxJY5JVKFfg5VLbZ_vjDkMouNkjS5/view?usp=share_link
         number: "1B"
     Discussion: ""
-    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw2"
+    HomeworkContinues: true
+    Homework: ""
   - topic: "Lecture 4: Span, linear independence and dependence"
     LectureRecording: "https://youtu.be/KZtVzchuqMM"
     Note: 
@@ -32,14 +39,18 @@ syllabus:
       - link: https://drive.google.com/file/d/17NTl6kq1q8Olo2_mXl-N-bVDLGTGkrCt/view?usp=share_link
         number: "4"
     Discussion: ""
-    Homework: ""
+    HomeworkNumber: 2
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1H4T2PFAbwU_aR1UhmesoCsvHFjjUQkfD/view?usp=sharing"
+    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw2"
   - topic: "Lecture 5: Span, linear independence and dependence (continued)"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
     Note: 
       - link: https://drive.google.com/file/d/1BXor0rf26Y4WjZD4x8DBpcYF2uRcWR-y/view?usp=share_link
         number: "11A"
     Discussion: ""
-    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw3"
+    HomeworkContinues: true
+    Homework: ""
   - topic: "Lecture 6: Linear Transformations, Matrix multiplication"
     LectureRecording: "https://youtu.be/B9MMeI8Fs5g"
     Note: 
@@ -48,7 +59,10 @@ syllabus:
       - link: https://drive.google.com/file/d/19wuCHn5SHt1SMthnWhOXqps4YKHVyI2e/view?usp=share_link
         number: "5"
     Discussion: ""
-    Homework: ""
+    HomeworkNumber: 3
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1RPTifrV5dQEUZbgrxZe3wvibd2WjuqgV/view?usp=sharing"
+    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw3"
   - topic: "Lecture 7: Inversion"
     LectureRecording: "https://youtu.be/GRTsAS_bEhs"
     Note: 
@@ -57,7 +71,8 @@ syllabus:
       - link: https://drive.google.com/file/d/1HKuGZqkjvUsa7eFSp_yOaZbz67_e1f2E/view?usp=share_link
         number: "6"
     Discussion: ""
-    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw4"
+    HomeworkContinues: true
+    Homework: ""
   - topic: "Lecture 8: Vector Spaces: Null spaces and Columnspaces"
     LectureRecording: "https://youtu.be/W-2pe8WR-p8"
     Note: 
@@ -66,13 +81,17 @@ syllabus:
       - link: https://drive.google.com/file/d/1l5FbzadVNG42r9zNgNJPItUkEnI01CQ5/view?usp=share_link
         number: "8"
     Discussion: ""
-    Homework: ""
+    HomeworkNumber: 4
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1pXUNJHEQP-aN19mGq2Ft6pWr1JVwaKfe/view?usp=sharing"
+    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw4"
   - topic: "Lecture 9: Page Rank, Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/lBOHOMHytrE"
     Note: 
       - link: https://drive.google.com/file/d/1nmrfpMJpg-ccKfYNCPFYq3yfOzGH8JNj/view?usp=share_link
         number: "7"
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 10: Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/2oJkJqT0VX0"
@@ -93,6 +112,9 @@ syllabus:
   - topic: "No Lecture"
     Note: 
     Discussion: ""
+    HomeworkNumber: 6
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1ojgOnf6HMIscWzG6Oq84T5Z7wac88t2n/view?usp=share_link"
     Homework: ""
   - topic: "Lecture 12: Node Voltage Analysis, Voltage Divider"
     LectureRecording: "https://youtu.be/fHq6GQ84Lko"
@@ -102,6 +124,7 @@ syllabus:
       - link: https://drive.google.com/file/d/1RKbBfuD3lZZ8b4H2ikgN4z6GlngpeIui/view?usp=share_link
         number: "11B"
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 13: 1D Touchscreen, Power and Voltage/Current Measurement"
     LectureRecording: "https://youtu.be/Wec43HPHku8"
@@ -109,6 +132,9 @@ syllabus:
       - link: https://drive.google.com/file/d/1RKbBfuD3lZZ8b4H2ikgN4z6GlngpeIui/view?usp=share_link
         number: "11B"
     Discussion: ""
+    HomeworkNumber: 7
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1zg7ZqsQDQoioYigJza7H0GfJPTiCrrD6/view?usp=sharing"
     Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw7"
   - topic: "Lecture 14: 2D Resistive Touchscreens"
     LectureRecording: "https://youtu.be/xKNJvf5NX0U"
@@ -116,6 +142,7 @@ syllabus:
       - link: https://drive.google.com/file/d/1yQ-cTrdiIq90KywHhi0FjvpXpVRvyrzN/view?usp=share_link
         number: "12"
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 15: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/4BNZbiZGkOg"
@@ -123,6 +150,9 @@ syllabus:
       - link: https://drive.google.com/file/d/1E1m4beLCq1wyA5HI1WT990TKI-81d5Ec/view?usp=share_link
         number: "13"
     Discussion: ""
+    HomeworkNumber: 8
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1KI_IzBcxIucQ6XLiEG-ndwHbFqmvlT9q/view?usp=sharing"
     Homework: ""
   - topic: "Lecture 16: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/c-_x3J24Z3A"
@@ -130,6 +160,7 @@ syllabus:
       - link: https://drive.google.com/file/d/1PLNJSAj2rigMObOEifbQc6sOcgjtdISp/view?usp=share_link
         number: "14"
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 17: Capacitors"
     LectureRecording: "https://youtu.be/C99Jv-At2O0"
@@ -137,6 +168,9 @@ syllabus:
       - link: https://drive.google.com/file/d/1QVs1rohKUWKIcqRqCWxtUQ_3yEmEGQaC/view?usp=share_link
         number: "15"
     Discussion: ""
+    HomeworkNumber: 9
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1pBWsR5n0giXCL_5cS9KAWazs9iZSgHLQ/view?usp=sharing"
     Homework: ""
   - topic: "Lecture 18: Capacitors"
     LectureRecording: "https://youtu.be/OBsjxz5jLv4"
@@ -144,6 +178,7 @@ syllabus:
       - link: https://drive.google.com/file/d/1X7Le-hcnps0WEaB660BJs0GZnCCHWUad/view?usp=share_link
         number: "16"
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 19: Capacitive Touchscreen and Capacitance Modeling"
     LectureRecording: "https://youtu.be/aEblAB3tJJ0"
@@ -151,6 +186,9 @@ syllabus:
       - link: https://drive.google.com/file/d/1eght848kyXPOVlE6Ym5FBu1Z94LtIVQe/view?usp=share_link
         number: "17"
     Discussion: ""
+    HomeworkNumber: 10
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1hyQZtzNaz0-ocnTodV3EU_ZOgj02RNp1/view?usp=sharing"
     Homework: ""
   - topic: "Lecture 20: Op-amps and Negative Feedback"
     LectureRecording: "https://youtu.be/gTYcItXIYWk"
@@ -158,6 +196,7 @@ syllabus:
       - link: https://drive.google.com/file/d/1eght848kyXPOVlE6Ym5FBu1Z94LtIVQe/view?usp=share_link
         number: "17"
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 21: Op-amp circuit analysis"
     LectureRecording: "https://youtu.be/ZlzZsJs_HYk"
@@ -165,10 +204,14 @@ syllabus:
       - link: https://drive.google.com/file/d/1dJWX0OZgjeDc1MpcRW5IYTmN94IFaP_i/view?usp=share_link
         number: "18"
     Discussion: ""
+    HomeworkNumber: 11
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1caAvqElYinjLNjf13rPrvx5jY0e5MJcL/view?usp=sharing"
     Homework: ""
   - topic: "No Lecture"
     Note: 
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 22: Circuit Design Examples"
     LectureRecording: "https://youtu.be/67hN9Cpd07M"
@@ -183,13 +226,17 @@ syllabus:
       - link: https://drive.google.com/file/d/17mqAH2rdFKLZualLMJC3FV3V-aKNZDUN/view?usp=share_link
         number: "20"
     Discussion: ""
-    Homework: ""
+    HomeworkNumber: 12
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/14nJab7-eEa04JDx_N2cYN4AwJH5X4Ts_/view?usp=sharing"
+    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw12"
   - topic: "Lecture 24: Correlation and Classification"
     LectureRecording: "https://youtu.be/N0bj1icrJiA"
     Note: 
       - link: https://drive.google.com/file/d/1xHa4hWXmD0YaxzOiPzN8Zbmf8i4BJ74y/view?usp=share_link
         number: "21"
     Discussion: ""
+    HomeworkContinues: true
     Homework: ""
   - topic: "Lecture 25: Least Squares Algorithm"
     LectureRecording: "https://youtu.be/GsmHHW1csTU"
@@ -199,9 +246,13 @@ syllabus:
       - link: https://drive.google.com/file/d/17voNwsmFQhSxWL69Bc9fVoPlrhgSmcsA/view?usp=share_link
         number: "23"
     Discussion: ""
-    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw12"
+    HomeworkNumber: 13
+    HomeworkRowspan: 2
+    HomeworkPDF: "https://drive.google.com/file/d/1q7uHGmKecUgEx3tjzuurbDNizTGitnlQ/view?usp=sharing"
+    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw13"
   - topic: "Lecture 26: Least Squares Algorithm (continued)"
     LectureRecording: "https://youtu.be/NdAKhzmawkY"
     Note: 
     Discussion: ""
-    Homework: "https://github.com/ee16a/public_hw_notebooks/tree/master/fa23_hw13"
+    HomeworkContinues: true
+    Homework: ""

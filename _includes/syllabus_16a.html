@@ -29,7 +29,18 @@
       {% endif %}
 
       <td>{{ lecture.Discussion }}</td>
-      <td>{{ lecture.Homework }}</td>
+      {% if lecture.HomeworkRowspan %}
+      <td rowspan="{{ lecture.HomeworkRowspan }}">
+        Homework {{ lecture.HomeworkNumber }}<br/>
+        <a href="{{ lecture.HomeworkPDF }}">PDF</a>
+        {% if lecture.Homework != empty %}
+        <br/><a href="{{ lecture.Homework }}">Notebook</a>
+        {% endif %}
+      </td>
+      {% elsif lecture.HomeworkContinues %}
+      {% else %}
+      <td></td>
+      {% endif %}
     </tr>
     {% endfor %}
   </tbody>
