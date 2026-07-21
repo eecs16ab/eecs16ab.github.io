@@ -9,19 +9,19 @@ labs:
         url: "https://docs.google.com/document/d/1UupoCUB9cXBDffk406Z0bdYxm_9vINi45htINer55TY/edit?usp=sharing"
   - title: "Imaging 1"
     presentation: "/assets/labs/presentations/imaging_1_presentation.pdf"
-    lab_files: "https://drive.google.com/drive/folders/1_dgwVsLKrBzD5HtPCkGTLYaEl333Ort8"
+    lab_files: "/assets/labs/files/imaging_1_files.zip"
     other_links:
       - label: "Pre-Lab Reading"
         url: "https://drive.google.com/file/d/1vmXjC1FaAlhsUqjzRWWZXPenNU6MV0PO/view?usp=share_link"
   - title: "Imaging 2"
     presentation: "/assets/labs/presentations/imaging_2_presentation.pdf"
-    lab_files: "https://drive.google.com/file/d/1EQMcIIDOn_OU5H6_Vk_ylGxqp7JSkl3b/view?usp=sharing"
+    lab_files: "/assets/labs/files/imaging_2_files.zip"
     other_links:
       - label: "Notebook Printout"
         url: "https://drive.google.com/file/d/1ia6v8tW5SNgvjYfoZXZBl3n3dl6F0Q0V/view?usp=sharing"
   - title: "Imaging 3"
     presentation: "/assets/labs/presentations/imaging_3_presentation.pdf"
-    lab_files: "https://drive.google.com/file/d/1gPqmJxZKLguBats9WdWUQsT0mEWfi7OR/view?usp=sharing"
+    lab_files: "/assets/labs/files/imaging_3_files.zip"
     other_links:
       - label: "Notebook Printout"
         url: "https://drive.google.com/file/d/1NwUV_yawOCMxeQFtPhUDb5CWUNSBJ_YT/view?usp=sharing"
@@ -43,15 +43,15 @@ labs:
         url: "https://drive.google.com/file/d/1OtxG9oK4NDdPBtHfqqXmb0GpGRALupMD/view?usp=sharing"
   - title: "Touchscreen 3A"
     presentation: "/assets/labs/presentations/touchscreen_3a_presentation.pdf"
-    lab_files: "https://drive.google.com/file/d/1bHsGpGOwTaGG_KSEV32MSI-mRIFkgG2e/view?usp=sharing"
+    lab_files: "/assets/labs/files/touchscreen_3a_files.zip"
     other_links:
       - label: "Notebook Printout"
         url: "https://drive.google.com/file/d/1yHRldIDmepRpIQ3o8mt9Gdyv_BEOk_EU/view?usp=sharing"
   - title: "Touchscreen 3B"
     presentation: "/assets/labs/presentations/touchscreen_3b_presentation.pdf"
-    lab_files: "https://drive.google.com/drive/folders/1LJj4wvr_i2yI6qvyv1G0TgRUz4gF7VJB"
+    lab_files: "/assets/labs/files/touchscreen_3b_files.zip"
     other_links: []
   - title: "APS"
     presentation: "/assets/labs/presentations/aps_presentation.pdf"
-    lab_files: "https://drive.google.com/file/d/1M8I4YRiMcoamF7NI-Z2HEyGS7zJ36C-M/view?usp=sharing"
+    lab_files: "/assets/labs/files/aps_files.zip"
     other_links: []
