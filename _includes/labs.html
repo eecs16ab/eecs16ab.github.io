@@ -1,0 +1,36 @@
+{% if include.labs != empty %}
+<table class="syllabus-table">
+  <thead>
+    <tr>
+      <th>Lab</th>
+      <th>Presentation</th>
+      <th>Lab Files</th>
+      <th>Other Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for lab in include.labs %}
+    <tr>
+      <td>{{ lab.title }}</td>
+      <td>
+        {% if lab.presentation != empty %}
+        <a href="{{ lab.presentation }}">Presentation</a>
+        {% endif %}
+      </td>
+      <td>
+        {% if lab.lab_files != empty %}
+        <a href="{{ lab.lab_files }}">Lab Files</a>
+        {% endif %}
+      </td>
+      <td>
+        {% for link in lab.other_links %}
+        <a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %}<br/>{% endunless %}
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>No labs are available.</p>
+{% endif %}

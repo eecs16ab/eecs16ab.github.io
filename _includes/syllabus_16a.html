@@ -2,7 +2,6 @@
   <thead>
     <tr>
       <th>Lecture Topic</th>
-      <th>Lecture Recording</th>
       <th>Note</th>
       <th>Discussion</th>
       <th>Homework</th>
@@ -11,12 +10,13 @@
   <tbody>
     {% for lecture in site.data.syllabus_16a.syllabus %}
     <tr>
-      <td>{{ lecture.topic }}</td>
-      {% if lecture.LectureRecording %}
-      <td><a href="{{ lecture.LectureRecording }}">Link</a></td>
-      {% else %}
-      <td>No Recording Available</td>
-      {% endif %} 
+      <td>
+        {{ lecture.topic }}
+        <br>
+        {% if lecture.LectureRecording %}
+        <a href="{{ lecture.LectureRecording }}">Recording</a>
+        {% endif %}
+      </td>
       
       {% if lecture.Note %}
       <td>
@@ -28,7 +28,18 @@
       <td>No Notes</td>
       {% endif %}
 
-      <td>{{ lecture.Discussion }}</td>
+      <td>
+        {% if lecture.DiscussionName != empty %}
+        Discussion {{ lecture.DiscussionName }}<br/>
+        {% endif %}
+        {% if lecture.DiscussionPDF != empty %}
+        <a href="{{ lecture.DiscussionPDF }}">PDF</a>
+        {% endif %}
+        {% if lecture.DiscussionNotebook != empty %}
+        {% if lecture.DiscussionPDF != empty %}<br/>{% endif %}
+        <a href="{{ lecture.DiscussionNotebook }}">Notebook</a>
+        {% endif %}
+      </td>
       {% if lecture.HomeworkRowspan %}
       <td rowspan="{{ lecture.HomeworkRowspan }}">
         Homework {{ lecture.HomeworkNumber }}<br/>
