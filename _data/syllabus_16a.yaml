@@ -2,7 +2,7 @@ syllabus:
   - topic: "Lecture 1: Introduction to Imaging"
     LectureRecording: "https://youtu.be/Zt4tAHCaGnQ"
     Note: 
-      - link: https://drive.google.com/file/d/1VFOdaTBPIx9YM9S9PDg_IatSb_xvfUDI/view?usp=share_link
+      - link: /assets/notes/Note0.pdf
         number: "0"
     DiscussionPDF: "https://drive.google.com/file/d/1oAj-AEz7FulqSxPELRV5hTUVFJcRq3hJ/view?usp=sharing"
     DiscussionName: "0B"
@@ -14,7 +14,7 @@ syllabus:
   - topic: "Lecture 2: Tomography and Linear Equations"
     LectureRecording: "https://youtu.be/vutC0-QjcaY"
     Note:
-      - link: https://drive.google.com/file/d/1vGJleg3q8L8dhIgQNp-TrVyRyNbElFsR/view?usp=share_link
+      - link: /assets/notes/Note1A.pdf
         number: "1A"
     DiscussionPDF: "https://drive.google.com/file/d/1rRr-zTpbvINxFfUeKKcSn8OgTWUC10rB/view?usp=sharing"
     DiscussionName: "1A"
@@ -26,9 +26,9 @@ syllabus:
   - topic: "Lecture 3: Gaussian Elimination"
     LectureRecording: "https://youtu.be/3zgdKCxOgI8"
     Note: 
-      - link: https://drive.google.com/file/d/1vGJleg3q8L8dhIgQNp-TrVyRyNbElFsR/view?usp=share_link
+      - link: /assets/notes/Note1A.pdf
         number: "1A"
-      - link: https://drive.google.com/file/d/1H2fOxJY5JVKFfg5VLbZ_vjDkMouNkjS5/view?usp=share_link
+      - link: /assets/notes/Note1B.pdf
         number: "1B"
     DiscussionPDF: "https://drive.google.com/file/d/1Q1vcHXSdIxHZ3sAlu5WntPC_ukc1nuwD/view?usp=sharing"
     DiscussionName: "1B"
@@ -38,11 +38,11 @@ syllabus:
   - topic: "Lecture 4: Span, linear independence and dependence"
     LectureRecording: "https://youtu.be/KZtVzchuqMM"
     Note: 
-      - link: https://drive.google.com/file/d/1TKg1WrdXY73CmLAOlaU21tHo0Uk4fBZT/view?usp=share_link
+      - link: /assets/notes/Note2A.pdf
         number: "2A"
-      - link: https://drive.google.com/file/d/1P0ypm1SeM97NUiYXSytbljdqokGuBkZ1/view?usp=share_link
+      - link: /assets/notes/Note2B.pdf
         number: "2B"
-      - link: https://drive.google.com/file/d/17NTl6kq1q8Olo2_mXl-N-bVDLGTGkrCt/view?usp=share_link
+      - link: /assets/notes/Note4.pdf
         number: "4"
     DiscussionPDF: "https://drive.google.com/file/d/1dncdG2XWBPAMQ3TMAzA85e_KikVeKA9a/view?usp=sharing"
     DiscussionName: "2A"
@@ -54,7 +54,7 @@ syllabus:
   - topic: "Lecture 5: Span, linear independence and dependence (continued)"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
     Note: 
-      - link: https://drive.google.com/file/d/1BXor0rf26Y4WjZD4x8DBpcYF2uRcWR-y/view?usp=share_link
+      - link: /assets/notes/Note11A.pdf
         number: "11A"
     DiscussionPDF: "https://drive.google.com/file/d/1MIDiu-cBd8617P46FVdChoBdzoTs3dkx/view?usp=sharing"
     DiscussionName: "2B"
@@ -64,9 +64,9 @@ syllabus:
   - topic: "Lecture 6: Linear Transformations, Matrix multiplication"
     LectureRecording: "https://youtu.be/B9MMeI8Fs5g"
     Note: 
-      - link: https://drive.google.com/file/d/1G5Ye8TDJ17XiqLeZHJ7MsM_h2cKiwrsP/view?usp=share_link
+      - link: /assets/notes/Note3.pdf
         number: "3"
-      - link: https://drive.google.com/file/d/19wuCHn5SHt1SMthnWhOXqps4YKHVyI2e/view?usp=share_link
+      - link: /assets/notes/Note5.pdf
         number: "5"
     DiscussionPDF: "https://drive.google.com/file/d/1M1mYf1dAHRN1fFeB9cKNsDoxBlSgzznE/view?usp=sharing"
     DiscussionName: "3A"
@@ -78,9 +78,9 @@ syllabus:
   - topic: "Lecture 7: Inversion"
     LectureRecording: "https://youtu.be/GRTsAS_bEhs"
     Note: 
-      - link: https://drive.google.com/file/d/19wuCHn5SHt1SMthnWhOXqps4YKHVyI2e/view?usp=share_link
+      - link: /assets/notes/Note5.pdf
         number: "5"
-      - link: https://drive.google.com/file/d/1HKuGZqkjvUsa7eFSp_yOaZbz67_e1f2E/view?usp=share_link
+      - link: /assets/notes/Note6.pdf
         number: "6"
     DiscussionPDF: "https://drive.google.com/file/d/1WVQCGw04_ner9mW4aUpNp6BUBNlV5DhZ/view?usp=sharing"
     DiscussionName: "3B"
@@ -90,9 +90,9 @@ syllabus:
   - topic: "Lecture 8: Vector Spaces: Null spaces and Columnspaces"
     LectureRecording: "https://youtu.be/W-2pe8WR-p8"
     Note: 
-      - link: https://drive.google.com/file/d/1nmrfpMJpg-ccKfYNCPFYq3yfOzGH8JNj/view?usp=share_link
+      - link: /assets/notes/Note7.pdf
         number: "7"
-      - link: https://drive.google.com/file/d/1l5FbzadVNG42r9zNgNJPItUkEnI01CQ5/view?usp=share_link
+      - link: /assets/notes/Note8.pdf
         number: "8"
     DiscussionPDF: "https://drive.google.com/file/d/1a9gylA4DBvp49FoBTWEpmWfnrj9d1e7Z/view?usp=sharing"
     DiscussionName: "4A"
@@ -104,7 +104,7 @@ syllabus:
   - topic: "Lecture 9: Page Rank, Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/lBOHOMHytrE"
     Note: 
-      - link: https://drive.google.com/file/d/1nmrfpMJpg-ccKfYNCPFYq3yfOzGH8JNj/view?usp=share_link
+      - link: /assets/notes/Note7.pdf
         number: "7"
     DiscussionPDF: "https://drive.google.com/file/d/1hlZCper286TxqGwAU7kP0gegLC-R_yIr/view?usp=sharing"
     DiscussionName: "4B"
@@ -114,9 +114,9 @@ syllabus:
   - topic: "Lecture 10: Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/2oJkJqT0VX0"
     Note: 
-      - link: https://drive.google.com/file/d/1l5FbzadVNG42r9zNgNJPItUkEnI01CQ5/view?usp=share_link
+      - link: /assets/notes/Note8.pdf
         number: "8"
-      - link: https://drive.google.com/file/d/16Y74O_KBYEPeSki13oI4yvh7Du2ti1Y9/view?usp=share_link
+      - link: /assets/notes/Note9.pdf
         number: "9"
     DiscussionPDF: "https://drive.google.com/file/d/1wlFM9-QEcTtntirGB1CPKCYtPj2NycHB/view?usp=sharing"
     DiscussionName: "5A"
@@ -125,7 +125,7 @@ syllabus:
   - topic: "Lecture 11: More Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/07TPkBhGETU"
     Note: 
-      - link: https://drive.google.com/file/d/16Y74O_KBYEPeSki13oI4yvh7Du2ti1Y9/view?usp=share_link
+      - link: /assets/notes/Note9.pdf
         number: "9"
     DiscussionPDF: "https://drive.google.com/file/d/1lXy-X-1hSJaQwLFZZuifGuIWjpVMUrwm/view?usp=sharing"
     DiscussionName: "5B"
@@ -143,9 +143,9 @@ syllabus:
   - topic: "Lecture 12: Node Voltage Analysis, Voltage Divider"
     LectureRecording: "https://youtu.be/fHq6GQ84Lko"
     Note: 
-      - link: https://drive.google.com/file/d/1BXor0rf26Y4WjZD4x8DBpcYF2uRcWR-y/view?usp=share_link
+      - link: /assets/notes/Note11A.pdf
         number: "11A"
-      - link: https://drive.google.com/file/d/1RKbBfuD3lZZ8b4H2ikgN4z6GlngpeIui/view?usp=share_link
+      - link: /assets/notes/Note11B.pdf
         number: "11B"
     DiscussionPDF: "https://drive.google.com/file/d/1jejxHb9sYhVDlrcMuRGazgIhDOGLV4FL/view?usp=sharing"
     DiscussionName: "6B"
@@ -155,7 +155,7 @@ syllabus:
   - topic: "Lecture 13: 1D Touchscreen, Power and Voltage/Current Measurement"
     LectureRecording: "https://youtu.be/Wec43HPHku8"
     Note: 
-      - link: https://drive.google.com/file/d/1RKbBfuD3lZZ8b4H2ikgN4z6GlngpeIui/view?usp=share_link
+      - link: /assets/notes/Note11B.pdf
         number: "11B"
     DiscussionPDF: "https://drive.google.com/file/d/1F_joddd1xkE4-sMKnGWdaYgQQjwUAJW0/view?usp=sharing"
     DiscussionName: "7A"
@@ -167,7 +167,7 @@ syllabus:
   - topic: "Lecture 14: 2D Resistive Touchscreens"
     LectureRecording: "https://youtu.be/xKNJvf5NX0U"
     Note: 
-      - link: https://drive.google.com/file/d/1yQ-cTrdiIq90KywHhi0FjvpXpVRvyrzN/view?usp=share_link
+      - link: /assets/notes/Note12.pdf
         number: "12"
     DiscussionPDF: "https://drive.google.com/file/d/1cxYrMEBuSZDjWUQ8QzNakQ2Igsh11iNG/view?usp=sharing"
     DiscussionName: "7B"
@@ -177,7 +177,7 @@ syllabus:
   - topic: "Lecture 15: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/4BNZbiZGkOg"
     Note: 
-      - link: https://drive.google.com/file/d/1E1m4beLCq1wyA5HI1WT990TKI-81d5Ec/view?usp=share_link
+      - link: /assets/notes/Note13.pdf
         number: "13"
     DiscussionPDF: "https://drive.google.com/file/d/13bC2Ezbeofp5dZbymjzmDSAdTtpSbefI/view?usp=sharing"
     DiscussionName: "8A"
@@ -189,7 +189,7 @@ syllabus:
   - topic: "Lecture 16: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/c-_x3J24Z3A"
     Note: 
-      - link: https://drive.google.com/file/d/1PLNJSAj2rigMObOEifbQc6sOcgjtdISp/view?usp=share_link
+      - link: /assets/notes/Note14.pdf
         number: "14"
     DiscussionPDF: "https://drive.google.com/file/d/11aoPEosvBvm4PmYvWwkqQpNjxH6ryUn0/view?usp=sharing"
     DiscussionName: "8B"
@@ -199,7 +199,7 @@ syllabus:
   - topic: "Lecture 17: Capacitors"
     LectureRecording: "https://youtu.be/C99Jv-At2O0"
     Note: 
-      - link: https://drive.google.com/file/d/1QVs1rohKUWKIcqRqCWxtUQ_3yEmEGQaC/view?usp=share_link
+      - link: /assets/notes/Note15.pdf
         number: "15"
     DiscussionPDF: "https://drive.google.com/file/d/13ped9p_WO_7EGic1pa4QMvkQCm7ASx6K/view?usp=sharing"
     DiscussionName: "9A"
@@ -211,7 +211,7 @@ syllabus:
   - topic: "Lecture 18: Capacitors"
     LectureRecording: "https://youtu.be/OBsjxz5jLv4"
     Note: 
-      - link: https://drive.google.com/file/d/1X7Le-hcnps0WEaB660BJs0GZnCCHWUad/view?usp=share_link
+      - link: /assets/notes/Note16.pdf
         number: "16"
     DiscussionPDF: "https://drive.google.com/file/d/1W4-HbHEeDN6tfakJbP-k1ADDuC82-Sj9/view?usp=sharing"
     DiscussionName: "9B"
@@ -221,7 +221,7 @@ syllabus:
   - topic: "Lecture 19: Capacitive Touchscreen and Capacitance Modeling"
     LectureRecording: "https://youtu.be/aEblAB3tJJ0"
     Note: 
-      - link: https://drive.google.com/file/d/1eght848kyXPOVlE6Ym5FBu1Z94LtIVQe/view?usp=share_link
+      - link: /assets/notes/Note17.pdf
         number: "17"
     DiscussionPDF: "https://drive.google.com/file/d/1WdeoKBf20Qg1S0XwzqsXSV5VfQ-9ee13/view?usp=sharing"
     DiscussionName: "10A"
@@ -233,7 +233,7 @@ syllabus:
   - topic: "Lecture 20: Op-amps and Negative Feedback"
     LectureRecording: "https://youtu.be/gTYcItXIYWk"
     Note: 
-      - link: https://drive.google.com/file/d/1eght848kyXPOVlE6Ym5FBu1Z94LtIVQe/view?usp=share_link
+      - link: /assets/notes/Note17.pdf
         number: "17"
     DiscussionPDF: "https://drive.google.com/file/d/1qjCqAmBUZX2PMpg6esCCUdr7N5AQqyjZ/view?usp=sharing"
     DiscussionName: "10B"
@@ -243,7 +243,7 @@ syllabus:
   - topic: "Lecture 21: Op-amp circuit analysis"
     LectureRecording: "https://youtu.be/ZlzZsJs_HYk"
     Note: 
-      - link: https://drive.google.com/file/d/1dJWX0OZgjeDc1MpcRW5IYTmN94IFaP_i/view?usp=share_link
+      - link: /assets/notes/Note18.pdf
         number: "18"
     DiscussionPDF: "https://drive.google.com/file/d/1XvoFlhUMFJZhoL4SugbOza1Mk46kCB7f/view?usp=sharing"
     DiscussionName: "11A"
@@ -262,7 +262,7 @@ syllabus:
   - topic: "Lecture 22: Circuit Design Examples"
     LectureRecording: "https://youtu.be/67hN9Cpd07M"
     Note: 
-      - link: https://drive.google.com/file/d/1WfTTinLSCm9I9vrmxPS_D-mW-5jftjQv/view?usp=share_link
+      - link: /assets/notes/Note19.pdf
         number: "19"
     DiscussionPDF: "https://drive.google.com/file/d/1gTTZOA2GmFWWdJh3K6CrqVjM7wuPYtno/view?usp=sharing"
     DiscussionName: "12A"
@@ -271,7 +271,7 @@ syllabus:
   - topic: "Lecture 23: Introduction to GPS"
     LectureRecording: "https://youtu.be/esRtmxm5i50"
     Note: 
-      - link: https://drive.google.com/file/d/17mqAH2rdFKLZualLMJC3FV3V-aKNZDUN/view?usp=share_link
+      - link: /assets/notes/Note20.pdf
         number: "20"
     DiscussionPDF: "https://drive.google.com/file/d/1o3ocZutP7Tfz_aeG9Mk-Bkw0xbp0dunA/view?usp=sharing"
     DiscussionName: "12B"
@@ -283,7 +283,7 @@ syllabus:
   - topic: "Lecture 24: Correlation and Classification"
     LectureRecording: "https://youtu.be/N0bj1icrJiA"
     Note: 
-      - link: https://drive.google.com/file/d/1xHa4hWXmD0YaxzOiPzN8Zbmf8i4BJ74y/view?usp=share_link
+      - link: /assets/notes/Note21.pdf
         number: "21"
     DiscussionPDF: "https://drive.google.com/file/d/1tenLiBx7RtLFsxoNO0k1qka6pmGDGvdz/view?usp=sharing"
     DiscussionName: "13A"
@@ -293,9 +293,9 @@ syllabus:
   - topic: "Lecture 25: Least Squares Algorithm"
     LectureRecording: "https://youtu.be/GsmHHW1csTU"
     Note: 
-      - link: https://drive.google.com/file/d/1Kj9BJ-upJh0oLkt8Hx7wx2nfip1Kg3sx/view?usp=share_link
+      - link: /assets/notes/Note22.pdf
         number: "22"
-      - link: https://drive.google.com/file/d/17voNwsmFQhSxWL69Bc9fVoPlrhgSmcsA/view?usp=share_link
+      - link: /assets/notes/Note23.pdf
         number: "23"
     DiscussionPDF: "https://drive.google.com/file/d/1gLvSGrG9ddbmEUE3z0yPlMqJxqGbStPn/view?usp=sharing"
     DiscussionName: "14A"
