@@ -3,28 +3,26 @@ labs:
     presentation: "/assets/labs/presentations/python_bootcamp_presentation.pdf"
     lab_files: "/assets/labs/files/python_bootcamp_files.zip"
     other_links:
-      - label: "DataHub Notebook"
-        url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAnastasia-Sim%2Feecs16a-lab-fa23&urlpath=tree%2Feecs16a-lab-fa23%2Feecs16a_python_bootcamp_fa23%2Feecs16a_python_bootcamp.ipynb&branch=main"
       - label: "Python Guide"
-        url: "https://docs.google.com/document/d/1UupoCUB9cXBDffk406Z0bdYxm_9vINi45htINer55TY/edit?usp=sharing"
+        url: "/assets/labs/guides/python_intro_guide_fall_2023.pdf"
   - title: "Imaging 1"
     presentation: "/assets/labs/presentations/imaging_1_presentation.pdf"
     lab_files: "/assets/labs/files/imaging_1_files.zip"
     other_links:
       - label: "Pre-Lab Reading"
-        url: "https://drive.google.com/file/d/1vmXjC1FaAlhsUqjzRWWZXPenNU6MV0PO/view?usp=share_link"
+        url: "/assets/labs/readings/imaging_1_prelab.pdf"
   - title: "Imaging 2"
     presentation: "/assets/labs/presentations/imaging_2_presentation.pdf"
     lab_files: "/assets/labs/files/imaging_2_files.zip"
-    other_links:
-      - label: "Notebook Printout"
-        url: "https://drive.google.com/file/d/1ia6v8tW5SNgvjYfoZXZBl3n3dl6F0Q0V/view?usp=sharing"
+    other_links: []
+      # - label: "Notebook Printout"
+      #   url: "https://drive.google.com/file/d/1ia6v8tW5SNgvjYfoZXZBl3n3dl6F0Q0V/view?usp=sharing"
   - title: "Imaging 3"
     presentation: "/assets/labs/presentations/imaging_3_presentation.pdf"
     lab_files: "/assets/labs/files/imaging_3_files.zip"
-    other_links:
-      - label: "Notebook Printout"
-        url: "https://drive.google.com/file/d/1NwUV_yawOCMxeQFtPhUDb5CWUNSBJ_YT/view?usp=sharing"
+    other_links: []
+      # - label: "Notebook Printout"
+      #   url: "https://drive.google.com/file/d/1NwUV_yawOCMxeQFtPhUDb5CWUNSBJ_YT/view?usp=sharing"
   - title: "Imaging (Document Scanner)"
     presentation: ""
     lab_files: "/assets/labs/files/imaging_document_scanner_files.zip"
@@ -32,9 +30,9 @@ labs:
   - title: "Touchscreen 1"
     presentation: "/assets/labs/presentations/touchscreen_1_presentation.pdf"
     lab_files: "/assets/labs/files/touchscreen_1_files.zip"
-    other_links:
-      - label: "Notebook Printout"
-        url: "https://drive.google.com/file/d/1eQ-aosLo2ny7pcSf-Omshg41YOopgsoJ/view?usp=sharing"
+    other_links: []
+      # - label: "Notebook Printout"
+      #   url: "https://drive.google.com/file/d/1eQ-aosLo2ny7pcSf-Omshg41YOopgsoJ/view?usp=sharing"
   - title: "Touchscreen 2"
     presentation: "/assets/labs/presentations/touchscreen_2_presentation.pdf"
     lab_files: "/assets/labs/files/touchscreen_2_files.zip"
@@ -44,9 +42,9 @@ labs:
   - title: "Touchscreen 3A"
     presentation: "/assets/labs/presentations/touchscreen_3a_presentation.pdf"
     lab_files: "/assets/labs/files/touchscreen_3a_files.zip"
-    other_links:
-      - label: "Notebook Printout"
-        url: "https://drive.google.com/file/d/1yHRldIDmepRpIQ3o8mt9Gdyv_BEOk_EU/view?usp=sharing"
+    other_links: []
+      # - label: "Notebook Printout"
+      #   url: "https://drive.google.com/file/d/1yHRldIDmepRpIQ3o8mt9Gdyv_BEOk_EU/view?usp=sharing"
   - title: "Touchscreen 3B"
     presentation: "/assets/labs/presentations/touchscreen_3b_presentation.pdf"
     lab_files: "/assets/labs/files/touchscreen_3b_files.zip"
