@@ -37,8 +37,8 @@ labs:
     presentation: "/assets/labs/presentations/touchscreen_2_presentation.pdf"
     lab_files: "/assets/labs/files/touchscreen_2_files.zip"
     other_links:
-      - label: "Pre-Lab Reading"
-        url: "https://drive.google.com/file/d/1OtxG9oK4NDdPBtHfqqXmb0GpGRALupMD/view?usp=sharing"
+      # - label: "Pre-Lab Reading"
+      #   url: "https://drive.google.com/file/d/1OtxG9oK4NDdPBtHfqqXmb0GpGRALupMD/view?usp=sharing"
   - title: "Touchscreen 3A"
     presentation: "/assets/labs/presentations/touchscreen_3a_presentation.pdf"
     lab_files: "/assets/labs/files/touchscreen_3a_files.zip"
