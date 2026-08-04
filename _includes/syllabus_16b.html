@@ -1,43 +1,58 @@
 <table class="syllabus-table">
-    <thead>
-      <tr>
-        <th>Lecture Topic</th>
-        <th>Note</th>
-        <th>Discussion</th>
-        <th>Homework</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for lecture in site.data.syllabus_16b.syllabus %}
-        <tr>
-          <td>
-            {{ lecture.topic }}
-            {% if lecture["Lecture Recording"] != empty %}
-            (<a href="{{ lecture["Lecture Recording"] }}">Recording</a>)
-            {% endif %}
-          </td>
-          <td><a href="{{ lecture.Note }}">Download</a></td>
-          <td>
-            {% if lecture.DiscussionName != empty %}
-            Discussion {{ lecture.DiscussionName }}<br/>
-            {% endif %}
-            {% if lecture.DiscussionPDF != empty %}
-            <a href="{{ lecture.DiscussionPDF }}">PDF</a>
-            {% endif %}
-            {% if lecture.DiscussionNotebook != empty %}
-            {% if lecture.DiscussionPDF != empty %}<br/>{% endif %}
-            <a href="{{ lecture.DiscussionNotebook }}">Notebook</a>
-            {% endif %}
-          </td>
-          <td>
-            {% if lecture.HomeworkPDF != empty %}
-            <a href="{{ lecture.HomeworkPDF }}">PDF</a><br/>
-            {% endif %}
-            {% if lecture.HomeworkNotebook != empty %}
-            <a href="{{ lecture.HomeworkNotebook }}">Notebook</a>
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+  <thead>
+    <tr>
+      <th>Lecture Topic</th>
+      <th>Note</th>
+      <th>Discussion</th>
+      <th>Homework</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for lecture in site.data.syllabus_16b.syllabus %}
+    <tr>
+      <td>
+        {{ lecture.topic }}
+        {% if lecture.LectureRecording or lecture.LectureNotes %}
+        <br/>
+        {% if lecture.LectureRecording %}
+        <a href="{{ lecture.LectureRecording }}">Recording</a>
+        {% endif %}
+        {% if lecture.LectureRecording and lecture.LectureNotes %} / {% endif %}
+        {% if lecture.LectureNotes %}
+        <a href="{{ lecture.LectureNotes }}">Lecture Notes</a>
+        {% endif %}
+        {% endif %}
+      </td>
+      <td>
+        {% for note in lecture.Note %}
+        <a href="{{ note.link }}">Note {{ note.number }}</a>{% unless forloop.last %}<br/>{% endunless %}
+        {% endfor %}
+      </td>
+      <td>
+        {% if lecture.DiscussionName %}
+        Discussion {{ lecture.DiscussionName }}<br/>
+        {% endif %}
+        {% if lecture.DiscussionPDF %}
+        <a href="{{ lecture.DiscussionPDF }}">PDF</a>
+        {% endif %}
+        {% if lecture.DiscussionNotebook %}
+        {% if lecture.DiscussionPDF %} / {% endif %}
+        <a href="{{ lecture.DiscussionNotebook }}">Notebook</a>
+        {% endif %}
+      </td>
+      {% if lecture.HomeworkRowspan %}
+      <td rowspan="{{ lecture.HomeworkRowspan }}">
+        Homework {{ lecture.HomeworkNumber }}<br/>
+        <a href="{{ lecture.HomeworkPDF }}">PDF</a>
+        {% if lecture.HomeworkNotebook %}
+         / <a href="{{ lecture.HomeworkNotebook }}">Notebook</a>
+        {% endif %}
+      </td>
+      {% elsif lecture.HomeworkContinues %}
+      {% else %}
+      <td></td>
+      {% endif %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

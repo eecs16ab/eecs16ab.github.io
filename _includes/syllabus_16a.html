@@ -36,7 +36,7 @@
         <a href="{{ lecture.DiscussionPDF }}">PDF</a>
         {% endif %}
         {% if lecture.DiscussionNotebook != empty %}
-        {% if lecture.DiscussionPDF != empty %}<br/>{% endif %}
+        {% if lecture.DiscussionPDF != empty %} / {% endif %}
         <a href="{{ lecture.DiscussionNotebook }}">Notebook</a>
         {% endif %}
       </td>
@@ -45,7 +45,7 @@
         Homework {{ lecture.HomeworkNumber }}<br/>
         <a href="{{ lecture.HomeworkPDF }}">PDF</a>
         {% if lecture.HomeworkNotebook != empty %}
-        <br/><a href="{{ lecture.HomeworkNotebook }}">Notebook</a>
+         / <a href="{{ lecture.HomeworkNotebook }}">Notebook</a>
         {% endif %}
       </td>
       {% elsif lecture.HomeworkContinues %}
