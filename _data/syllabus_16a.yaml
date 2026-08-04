@@ -2,33 +2,33 @@ syllabus:
   - topic: "Lecture 1: Introduction to Imaging"
     LectureRecording: "https://youtu.be/Zt4tAHCaGnQ"
     Note: 
-      - link: /assets/notes/Note0.pdf
+      - link: /assets/16a/notes/Note0.pdf
         number: "0"
     DiscussionPDF: "https://drive.google.com/file/d/1oAj-AEz7FulqSxPELRV5hTUVFJcRq3hJ/view?usp=sharing"
     DiscussionName: "0B"
     DiscussionNotebook: ""
     HomeworkNumber: 0
     HomeworkRowspan: 1
-    HomeworkPDF: "/assets/homework/homework_0_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_0_problems.pdf"
     HomeworkNotebook: ""
   - topic: "Lecture 2: Tomography and Linear Equations"
     LectureRecording: "https://youtu.be/vutC0-QjcaY"
     Note:
-      - link: /assets/notes/Note1A.pdf
+      - link: /assets/16a/notes/Note1A.pdf
         number: "1A"
     DiscussionPDF: "https://drive.google.com/file/d/1rRr-zTpbvINxFfUeKKcSn8OgTWUC10rB/view?usp=sharing"
     DiscussionName: "1A"
     DiscussionNotebook: ""
     HomeworkNumber: 1
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_1_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_1_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1crYslTzLr7__haqUwLpXZAUedMXxAA27?usp=sharing"
   - topic: "Lecture 3: Gaussian Elimination"
     LectureRecording: "https://youtu.be/3zgdKCxOgI8"
     Note: 
-      - link: /assets/notes/Note1A.pdf
+      - link: /assets/16a/notes/Note1A.pdf
         number: "1A"
-      - link: /assets/notes/Note1B.pdf
+      - link: /assets/16a/notes/Note1B.pdf
         number: "1B"
     DiscussionPDF: "https://drive.google.com/file/d/1Q1vcHXSdIxHZ3sAlu5WntPC_ukc1nuwD/view?usp=sharing"
     DiscussionName: "1B"
@@ -38,23 +38,23 @@ syllabus:
   - topic: "Lecture 4: Span, linear independence and dependence"
     LectureRecording: "https://youtu.be/KZtVzchuqMM"
     Note: 
-      - link: /assets/notes/Note2A.pdf
+      - link: /assets/16a/notes/Note2A.pdf
         number: "2A"
-      - link: /assets/notes/Note2B.pdf
+      - link: /assets/16a/notes/Note2B.pdf
         number: "2B"
-      - link: /assets/notes/Note4.pdf
+      - link: /assets/16a/notes/Note4.pdf
         number: "4"
     DiscussionPDF: "https://drive.google.com/file/d/1dncdG2XWBPAMQ3TMAzA85e_KikVeKA9a/view?usp=sharing"
     DiscussionName: "2A"
     DiscussionNotebook: ""
     HomeworkNumber: 2
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_2_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_2_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1ebRFnbz9Qp2IUvjeC5yhhwKoaU6HXlhE?usp=sharing"
   - topic: "Lecture 5: Span, linear independence and dependence (continued)"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
     Note: 
-      - link: /assets/notes/Note11A.pdf
+      - link: /assets/16a/notes/Note11A.pdf
         number: "11A"
     DiscussionPDF: "https://drive.google.com/file/d/1MIDiu-cBd8617P46FVdChoBdzoTs3dkx/view?usp=sharing"
     DiscussionName: "2B"
@@ -64,23 +64,23 @@ syllabus:
   - topic: "Lecture 6: Linear Transformations, Matrix multiplication"
     LectureRecording: "https://youtu.be/B9MMeI8Fs5g"
     Note: 
-      - link: /assets/notes/Note3.pdf
+      - link: /assets/16a/notes/Note3.pdf
         number: "3"
-      - link: /assets/notes/Note5.pdf
+      - link: /assets/16a/notes/Note5.pdf
         number: "5"
     DiscussionPDF: "https://drive.google.com/file/d/1M1mYf1dAHRN1fFeB9cKNsDoxBlSgzznE/view?usp=sharing"
     DiscussionName: "3A"
     DiscussionNotebook: ""
     HomeworkNumber: 3
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_3_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_3_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1qO9ubLRh0irxk0qiKclrAsJmelkVrnMY?usp=sharing"
   - topic: "Lecture 7: Inversion"
     LectureRecording: "https://youtu.be/GRTsAS_bEhs"
     Note: 
-      - link: /assets/notes/Note5.pdf
+      - link: /assets/16a/notes/Note5.pdf
         number: "5"
-      - link: /assets/notes/Note6.pdf
+      - link: /assets/16a/notes/Note6.pdf
         number: "6"
     DiscussionPDF: "https://drive.google.com/file/d/1WVQCGw04_ner9mW4aUpNp6BUBNlV5DhZ/view?usp=sharing"
     DiscussionName: "3B"
@@ -90,21 +90,21 @@ syllabus:
   - topic: "Lecture 8: Vector Spaces: Null spaces and Columnspaces"
     LectureRecording: "https://youtu.be/W-2pe8WR-p8"
     Note: 
-      - link: /assets/notes/Note7.pdf
+      - link: /assets/16a/notes/Note7.pdf
         number: "7"
-      - link: /assets/notes/Note8.pdf
+      - link: /assets/16a/notes/Note8.pdf
         number: "8"
     DiscussionPDF: "https://drive.google.com/file/d/1a9gylA4DBvp49FoBTWEpmWfnrj9d1e7Z/view?usp=sharing"
     DiscussionName: "4A"
     DiscussionNotebook: ""
     HomeworkNumber: 4
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_4_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_4_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1DdGLCztnx356eYQktN4FqjrgV7yYok72?usp=sharing"
   - topic: "Lecture 9: Page Rank, Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/lBOHOMHytrE"
     Note: 
-      - link: /assets/notes/Note7.pdf
+      - link: /assets/16a/notes/Note7.pdf
         number: "7"
     DiscussionPDF: "https://drive.google.com/file/d/1hlZCper286TxqGwAU7kP0gegLC-R_yIr/view?usp=sharing"
     DiscussionName: "4B"
@@ -114,9 +114,9 @@ syllabus:
   - topic: "Lecture 10: Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/2oJkJqT0VX0"
     Note: 
-      - link: /assets/notes/Note8.pdf
+      - link: /assets/16a/notes/Note8.pdf
         number: "8"
-      - link: /assets/notes/Note9.pdf
+      - link: /assets/16a/notes/Note9.pdf
         number: "9"
     DiscussionPDF: "https://drive.google.com/file/d/1wlFM9-QEcTtntirGB1CPKCYtPj2NycHB/view?usp=sharing"
     DiscussionName: "5A"
@@ -125,7 +125,7 @@ syllabus:
   - topic: "Lecture 11: More Eigenvalues and Eigenspaces"
     LectureRecording: "https://youtu.be/07TPkBhGETU"
     Note: 
-      - link: /assets/notes/Note9.pdf
+      - link: /assets/16a/notes/Note9.pdf
         number: "9"
     DiscussionPDF: "https://drive.google.com/file/d/1lXy-X-1hSJaQwLFZZuifGuIWjpVMUrwm/view?usp=sharing"
     DiscussionName: "5B"
@@ -138,14 +138,14 @@ syllabus:
     DiscussionNotebook: ""
     HomeworkNumber: 6
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_6_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_6_problems.pdf"
     HomeworkNotebook: ""
   - topic: "Lecture 12: Node Voltage Analysis, Voltage Divider"
     LectureRecording: "https://youtu.be/fHq6GQ84Lko"
     Note: 
-      - link: /assets/notes/Note11A.pdf
+      - link: /assets/16a/notes/Note11A.pdf
         number: "11A"
-      - link: /assets/notes/Note11B.pdf
+      - link: /assets/16a/notes/Note11B.pdf
         number: "11B"
     DiscussionPDF: "https://drive.google.com/file/d/1jejxHb9sYhVDlrcMuRGazgIhDOGLV4FL/view?usp=sharing"
     DiscussionName: "6B"
@@ -155,19 +155,19 @@ syllabus:
   - topic: "Lecture 13: 1D Touchscreen, Power and Voltage/Current Measurement"
     LectureRecording: "https://youtu.be/Wec43HPHku8"
     Note: 
-      - link: /assets/notes/Note11B.pdf
+      - link: /assets/16a/notes/Note11B.pdf
         number: "11B"
     DiscussionPDF: "https://drive.google.com/file/d/1F_joddd1xkE4-sMKnGWdaYgQQjwUAJW0/view?usp=sharing"
     DiscussionName: "7A"
     DiscussionNotebook: ""
     HomeworkNumber: 7
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_7_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_7_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1EcRfG7ykzxqi_dk4nc9GPs7Wlc_V3hBC?usp=sharing"
   - topic: "Lecture 14: 2D Resistive Touchscreens"
     LectureRecording: "https://youtu.be/xKNJvf5NX0U"
     Note: 
-      - link: /assets/notes/Note12.pdf
+      - link: /assets/16a/notes/Note12.pdf
         number: "12"
     DiscussionPDF: "https://drive.google.com/file/d/1cxYrMEBuSZDjWUQ8QzNakQ2Igsh11iNG/view?usp=sharing"
     DiscussionName: "7B"
@@ -177,19 +177,19 @@ syllabus:
   - topic: "Lecture 15: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/4BNZbiZGkOg"
     Note: 
-      - link: /assets/notes/Note13.pdf
+      - link: /assets/16a/notes/Note13.pdf
         number: "13"
     DiscussionPDF: "https://drive.google.com/file/d/13bC2Ezbeofp5dZbymjzmDSAdTtpSbefI/view?usp=sharing"
     DiscussionName: "8A"
     DiscussionNotebook: ""
     HomeworkNumber: 8
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_8_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_8_problems.pdf"
     HomeworkNotebook: ""
   - topic: "Lecture 16: Superposition and Equivalence"
     LectureRecording: "https://youtu.be/c-_x3J24Z3A"
     Note: 
-      - link: /assets/notes/Note14.pdf
+      - link: /assets/16a/notes/Note14.pdf
         number: "14"
     DiscussionPDF: "https://drive.google.com/file/d/11aoPEosvBvm4PmYvWwkqQpNjxH6ryUn0/view?usp=sharing"
     DiscussionName: "8B"
@@ -199,19 +199,19 @@ syllabus:
   - topic: "Lecture 17: Capacitors"
     LectureRecording: "https://youtu.be/C99Jv-At2O0"
     Note: 
-      - link: /assets/notes/Note15.pdf
+      - link: /assets/16a/notes/Note15.pdf
         number: "15"
     DiscussionPDF: "https://drive.google.com/file/d/13ped9p_WO_7EGic1pa4QMvkQCm7ASx6K/view?usp=sharing"
     DiscussionName: "9A"
     DiscussionNotebook: ""
     HomeworkNumber: 9
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_9_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_9_problems.pdf"
     HomeworkNotebook: ""
   - topic: "Lecture 18: Capacitors"
     LectureRecording: "https://youtu.be/OBsjxz5jLv4"
     Note: 
-      - link: /assets/notes/Note16.pdf
+      - link: /assets/16a/notes/Note16.pdf
         number: "16"
     DiscussionPDF: "https://drive.google.com/file/d/1W4-HbHEeDN6tfakJbP-k1ADDuC82-Sj9/view?usp=sharing"
     DiscussionName: "9B"
@@ -221,19 +221,19 @@ syllabus:
   - topic: "Lecture 19: Capacitive Touchscreen and Capacitance Modeling"
     LectureRecording: "https://youtu.be/aEblAB3tJJ0"
     Note: 
-      - link: /assets/notes/Note17.pdf
+      - link: /assets/16a/notes/Note17.pdf
         number: "17"
     DiscussionPDF: "https://drive.google.com/file/d/1WdeoKBf20Qg1S0XwzqsXSV5VfQ-9ee13/view?usp=sharing"
     DiscussionName: "10A"
     DiscussionNotebook: ""
     HomeworkNumber: 10
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_10_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_10_problems.pdf"
     HomeworkNotebook: ""
   - topic: "Lecture 20: Op-amps and Negative Feedback"
     LectureRecording: "https://youtu.be/gTYcItXIYWk"
     Note: 
-      - link: /assets/notes/Note17.pdf
+      - link: /assets/16a/notes/Note17.pdf
         number: "17"
     DiscussionPDF: "https://drive.google.com/file/d/1qjCqAmBUZX2PMpg6esCCUdr7N5AQqyjZ/view?usp=sharing"
     DiscussionName: "10B"
@@ -243,14 +243,14 @@ syllabus:
   - topic: "Lecture 21: Op-amp circuit analysis"
     LectureRecording: "https://youtu.be/ZlzZsJs_HYk"
     Note: 
-      - link: /assets/notes/Note18.pdf
+      - link: /assets/16a/notes/Note18.pdf
         number: "18"
     DiscussionPDF: "https://drive.google.com/file/d/1XvoFlhUMFJZhoL4SugbOza1Mk46kCB7f/view?usp=sharing"
     DiscussionName: "11A"
     DiscussionNotebook: ""
     HomeworkNumber: 11
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_11_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_11_problems.pdf"
     HomeworkNotebook: ""
   - topic: "No Lecture"
     Note: 
@@ -262,7 +262,7 @@ syllabus:
   - topic: "Lecture 22: Circuit Design Examples"
     LectureRecording: "https://youtu.be/67hN9Cpd07M"
     Note: 
-      - link: /assets/notes/Note19.pdf
+      - link: /assets/16a/notes/Note19.pdf
         number: "19"
     DiscussionPDF: "https://drive.google.com/file/d/1gTTZOA2GmFWWdJh3K6CrqVjM7wuPYtno/view?usp=sharing"
     DiscussionName: "12A"
@@ -271,19 +271,19 @@ syllabus:
   - topic: "Lecture 23: Introduction to GPS"
     LectureRecording: "https://youtu.be/esRtmxm5i50"
     Note: 
-      - link: /assets/notes/Note20.pdf
+      - link: /assets/16a/notes/Note20.pdf
         number: "20"
     DiscussionPDF: "https://drive.google.com/file/d/1o3ocZutP7Tfz_aeG9Mk-Bkw0xbp0dunA/view?usp=sharing"
     DiscussionName: "12B"
     DiscussionNotebook: ""
     HomeworkNumber: 12
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_12_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_12_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1FHgnGGbzStYPHqASuehxAvVSEeiXLu8Q?usp=sharing"
   - topic: "Lecture 24: Correlation and Classification"
     LectureRecording: "https://youtu.be/N0bj1icrJiA"
     Note: 
-      - link: /assets/notes/Note21.pdf
+      - link: /assets/16a/notes/Note21.pdf
         number: "21"
     DiscussionPDF: "https://drive.google.com/file/d/1tenLiBx7RtLFsxoNO0k1qka6pmGDGvdz/view?usp=sharing"
     DiscussionName: "13A"
@@ -293,16 +293,16 @@ syllabus:
   - topic: "Lecture 25: Least Squares Algorithm"
     LectureRecording: "https://youtu.be/GsmHHW1csTU"
     Note: 
-      - link: /assets/notes/Note22.pdf
+      - link: /assets/16a/notes/Note22.pdf
         number: "22"
-      - link: /assets/notes/Note23.pdf
+      - link: /assets/16a/notes/Note23.pdf
         number: "23"
     DiscussionPDF: "https://drive.google.com/file/d/1gLvSGrG9ddbmEUE3z0yPlMqJxqGbStPn/view?usp=sharing"
     DiscussionName: "14A"
     DiscussionNotebook: ""
     HomeworkNumber: 13
     HomeworkRowspan: 2
-    HomeworkPDF: "/assets/homework/homework_13_problems.pdf"
+    HomeworkPDF: "/assets/16a/homework/homework_13_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1pGQNhWnL74SmLmJYIitg6OJiPOBWu2A9?usp=sharing"
   - topic: "Lecture 26: Least Squares Algorithm (continued)"
     LectureRecording: "https://youtu.be/NdAKhzmawkY"
