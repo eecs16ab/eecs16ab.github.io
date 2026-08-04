@@ -1,13 +1,13 @@
 labs:
   - title: "Lab 1: Tinkercad Intro, SW Installation"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/lab1_sp21.zip"
+    lab_files: "/assets/16b/labs/lab1_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Flab1-sp21%2F&branch=master"
   - title: "Lab 2: Debugging"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/lab2_sp21.zip"
+    lab_files: "/assets/16b/labs/lab2_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fdebugging-sp21%2F&branch=master"
@@ -17,7 +17,7 @@ labs:
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fdebugging_lite-sp21%2F&branch=master"
   - title: "Lab 3: DAC/ADC"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/lab3_sp21.zip"
+    lab_files: "/assets/16b/labs/lab3_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fdac_adc-sp21%2F&branch=master"
@@ -27,7 +27,7 @@ labs:
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fdac_adc_lite-sp21%2F&branch=master"
   - title: "Lab 4: Color Organ"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/lab4_sp21.zip"
+    lab_files: "/assets/16b/labs/lab4_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fcolor_organ-sp21%2F&branch=master"
@@ -37,7 +37,7 @@ labs:
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fcolor_organ_lite-sp21%2F&branch=master"
   - title: "Project Part 1: Start Front-End Circuits"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/proj1_sp21.zip"
+    lab_files: "/assets/16b/labs/proj1_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Ffront_end-sp21%2F&branch=master"
@@ -47,7 +47,7 @@ labs:
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Ffront_end_lite-sp21%2F&branch=master"
   - title: "Project Part 2: System ID"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/proj2_sp21.zip"
+    lab_files: "/assets/16b/labs/proj2_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fsystem_id-sp21%2F&branch=master"
@@ -57,7 +57,7 @@ labs:
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fsystem_id_lite-sp21%2F&branch=master"
   - title: "Project Part 3: Closed-Loop Control"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/proj3_sp21.zip"
+    lab_files: "/assets/16b/labs/proj3_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fcontrols-sp21%2F&branch=master"
@@ -67,7 +67,7 @@ labs:
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fcontrols_lite-sp21%2F&branch=master"
   - title: "Project Part 4A: SVD/PCA"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/proj4_sp21.zip"
+    lab_files: "/assets/16b/labs/proj4_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fsvd_pca-sp21%2F&branch=master"
@@ -81,7 +81,7 @@ labs:
     other_links: []
   - title: "Project Part 5: Advanced Controls"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/proj5_sp21.zip"
+    lab_files: "/assets/16b/labs/proj5_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fadvanced_controls-sp21%2F&branch=master"
@@ -91,7 +91,7 @@ labs:
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fadvanced_controls_lite-sp21%2F&branch=master"
   - title: "Project Part 6: Integration"
     presentation: ""
-    lab_files: "https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/proj6_sp21.zip"
+    lab_files: "/assets/16b/labs/proj6_sp21.zip"
     other_links:
       - label: "DataHub Notebook"
         url: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fee16b%2Fpublic-notebooks&urlpath=tree%2Fpublic-notebooks%2Fintegration-sp21%2F&branch=master"
