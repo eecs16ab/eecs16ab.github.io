@@ -9,4 +9,4 @@ nav_order: 1
 
 [Spring 2021 Lab Syllabus](https://inst.eecs.berkeley.edu/~ee16b/sp21/lab/sp21_lab_syllabus.pdf)
 
-{% include labs.html labs=site.data.labs_16b.labs %}
+{% include labs.html labs=site.data.labs_16b.labs show_presentation=false %}

@@ -1,10 +1,10 @@
-<table class="syllabus-table">
+<table class="syllabus-table" style="width: 100%; table-layout: fixed;">
   <thead>
     <tr>
-      <th>Lecture Topic</th>
-      <th>Note</th>
-      <th>Discussion</th>
-      <th>Homework</th>
+      <th style="width: 46%;">Lecture Topic</th>
+      <th style="width: 18%;">Note</th>
+      <th style="width: 18%;">Discussion</th>
+      <th style="width: 18%;">Homework</th>
     </tr>
   </thead>
   <tbody>
@@ -25,28 +25,34 @@
         {% endfor %}
       </td>
       {% else %}
-      <td>No Notes</td>
+      <td></td>
       {% endif %}
 
       <td>
         {% if lecture.DiscussionName != empty %}
         Discussion {{ lecture.DiscussionName }}<br/>
         {% endif %}
-        {% if lecture.DiscussionPDF != empty %}
-        <a href="{{ lecture.DiscussionPDF }}">PDF</a>
-        {% endif %}
-        {% if lecture.DiscussionNotebook != empty %}
-        {% if lecture.DiscussionPDF != empty %} / {% endif %}
-        <a href="{{ lecture.DiscussionNotebook }}">Notebook</a>
+        {% if lecture.DiscussionPDF != empty or lecture.DiscussionNotebook != empty %}
+        <span style="white-space: nowrap;">
+          {% if lecture.DiscussionPDF != empty %}
+          <a href="{{ lecture.DiscussionPDF }}">PDF</a>
+          {% endif %}
+          {% if lecture.DiscussionNotebook != empty %}
+          {% if lecture.DiscussionPDF != empty %} / {% endif %}
+          <a href="{{ lecture.DiscussionNotebook }}">Notebook</a>
+          {% endif %}
+        </span>
         {% endif %}
       </td>
       {% if lecture.HomeworkRowspan %}
       <td rowspan="{{ lecture.HomeworkRowspan }}">
         Homework {{ lecture.HomeworkNumber }}<br/>
-        <a href="{{ lecture.HomeworkPDF }}">PDF</a>
+        <span style="white-space: nowrap;">
+          <a href="{{ lecture.HomeworkPDF }}">PDF</a>
         {% if lecture.HomeworkNotebook != empty %}
          / <a href="{{ lecture.HomeworkNotebook }}">Notebook</a>
         {% endif %}
+        </span>
       </td>
       {% elsif lecture.HomeworkContinues %}
       {% else %}

@@ -3,7 +3,9 @@
   <thead>
     <tr>
       <th>Lab</th>
+      {% if include.show_presentation != false %}
       <th>Presentation</th>
+      {% endif %}
       <th>Lab Files</th>
       <th>Other Links</th>
     </tr>
@@ -12,11 +14,13 @@
     {% for lab in include.labs %}
     <tr>
       <td>{{ lab.title }}</td>
+      {% if include.show_presentation != false %}
       <td>
         {% if lab.presentation != empty %}
         <a href="{{ lab.presentation }}">Presentation</a>
         {% endif %}
       </td>
+      {% endif %}
       <td>
         {% if lab.lab_files != empty %}
         <a href="{{ lab.lab_files }}">Lab Files</a>

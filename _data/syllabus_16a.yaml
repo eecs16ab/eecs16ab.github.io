@@ -51,7 +51,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_2_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1ebRFnbz9Qp2IUvjeC5yhhwKoaU6HXlhE?usp=sharing"
-  - topic: "Lecture 5: Span, linear independence and dependence (continued)"
+  - topic: "Lecture 5: Span, linear independence and dependence"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
     Note: 
       - link: /assets/16a/notes/Note11A.pdf
@@ -131,10 +131,10 @@ syllabus:
     DiscussionName: "5B"
     DiscussionNotebook: ""
     HomeworkNotebook: ""
-  - topic: "No Lecture"
+  - topic: ""
     Note: 
-    DiscussionPDF: ""
-    DiscussionName: ""
+    DiscussionPDF: "https://drive.google.com/file/d/1pXPVcx3hc2cn7Wop2jctHgsezp8l3eoH/view?usp=sharing"
+    DiscussionName: "6A"
     DiscussionNotebook: ""
     HomeworkNumber: 6
     HomeworkRowspan: 2
@@ -186,7 +186,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_8_problems.pdf"
     HomeworkNotebook: ""
-  - topic: "Lecture 16: Superposition and Equivalence"
+  - topic: "Lecture 16: Capacitors"
     LectureRecording: "https://youtu.be/c-_x3J24Z3A"
     Note: 
       - link: /assets/16a/notes/Note14.pdf
@@ -208,7 +208,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_9_problems.pdf"
     HomeworkNotebook: ""
-  - topic: "Lecture 18: Capacitors"
+  - topic: "Lecture 18: Capacitors and Capacitive Touchscreen"
     LectureRecording: "https://youtu.be/OBsjxz5jLv4"
     Note: 
       - link: /assets/16a/notes/Note16.pdf
@@ -252,10 +252,10 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_11_problems.pdf"
     HomeworkNotebook: ""
-  - topic: "No Lecture"
+  - topic: ""
     Note: 
-    DiscussionPDF: ""
-    DiscussionName: ""
+    DiscussionPDF: "https://drive.google.com/file/d/1gTTZOA2GmFWWdJh3K6CrqVjM7wuPYtno/view?usp=sharing"
+    DiscussionName: "11B"
     DiscussionNotebook: ""
     HomeworkContinues: true
     HomeworkNotebook: ""
@@ -267,7 +267,10 @@ syllabus:
     DiscussionPDF: "https://drive.google.com/file/d/1gTTZOA2GmFWWdJh3K6CrqVjM7wuPYtno/view?usp=sharing"
     DiscussionName: "12A"
     DiscussionNotebook: ""
-    HomeworkNotebook: ""
+    HomeworkNumber: 12
+    HomeworkRowspan: 2
+    HomeworkPDF: "/assets/16a/homework/homework_12_problems.pdf"
+    HomeworkNotebook: "https://colab.research.google.com/drive/1FHgnGGbzStYPHqASuehxAvVSEeiXLu8Q?usp=sharing"
   - topic: "Lecture 23: Introduction to GPS"
     LectureRecording: "https://youtu.be/esRtmxm5i50"
     Note: 
@@ -276,10 +279,6 @@ syllabus:
     DiscussionPDF: "https://drive.google.com/file/d/1o3ocZutP7Tfz_aeG9Mk-Bkw0xbp0dunA/view?usp=sharing"
     DiscussionName: "12B"
     DiscussionNotebook: ""
-    HomeworkNumber: 12
-    HomeworkRowspan: 2
-    HomeworkPDF: "/assets/16a/homework/homework_12_problems.pdf"
-    HomeworkNotebook: "https://colab.research.google.com/drive/1FHgnGGbzStYPHqASuehxAvVSEeiXLu8Q?usp=sharing"
   - topic: "Lecture 24: Correlation and Classification"
     LectureRecording: "https://youtu.be/N0bj1icrJiA"
     Note: 
@@ -288,7 +287,17 @@ syllabus:
     DiscussionPDF: "https://drive.google.com/file/d/1tenLiBx7RtLFsxoNO0k1qka6pmGDGvdz/view?usp=sharing"
     DiscussionName: "13A"
     DiscussionNotebook: ""
-    HomeworkContinues: true
+    HomeworkNumber: 13
+    HomeworkRowspan: 1
+    HomeworkPDF: "/assets/16a/homework/homework_13_problems.pdf"
+    HomeworkNotebook: "https://colab.research.google.com/drive/1pGQNhWnL74SmLmJYIitg6OJiPOBWu2A9?usp=sharing"
+  - topic: ""
+    Note:
+      - link: /assets/16a/notes/Note22.pdf
+        number: "22"
+    DiscussionPDF: ""
+    DiscussionName: ""
+    DiscussionNotebook: ""
     HomeworkNotebook: ""
   - topic: "Lecture 25: Least Squares Algorithm"
     LectureRecording: "https://youtu.be/GsmHHW1csTU"
@@ -300,15 +309,11 @@ syllabus:
     DiscussionPDF: "https://drive.google.com/file/d/1gLvSGrG9ddbmEUE3z0yPlMqJxqGbStPn/view?usp=sharing"
     DiscussionName: "14A"
     DiscussionNotebook: ""
-    HomeworkNumber: 13
-    HomeworkRowspan: 2
-    HomeworkPDF: "/assets/16a/homework/homework_13_problems.pdf"
-    HomeworkNotebook: "https://colab.research.google.com/drive/1pGQNhWnL74SmLmJYIitg6OJiPOBWu2A9?usp=sharing"
+    HomeworkNotebook: ""
   - topic: "Lecture 26: Least Squares Algorithm (continued)"
     LectureRecording: "https://youtu.be/NdAKhzmawkY"
     Note: 
     DiscussionPDF: "https://drive.google.com/file/d/1pcuLYUi-GhxQjqYikN_uNOlI8GtMtUpX/view?usp=sharing"
     DiscussionName: "14B"
     DiscussionNotebook: "https://colab.research.google.com/drive/1LgJsfo79TC9_rdnVqFY_N4GLBZ95iCq_?usp=sharing"
-    HomeworkContinues: true
     HomeworkNotebook: ""
