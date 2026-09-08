@@ -1,6 +1,6 @@
 syllabus:
   - topic: "16A Review and Equivalent Circuits"
-    LectureRecording: "https://youtu.be/N0qWN8PKUTQ"
+    LectureRecording: "https://youtu.be/SJEfn-JIVBY"
     LectureNotes: "/assets/16b/lecture-notes/lecture1A.pdf"
     Note:
       - number: "0A"
@@ -11,7 +11,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob01.pdf"
   - topic: "Computing: Transistors and Logic"
-    LectureRecording: "https://youtu.be/jgaxFmUfNlA"
+    LectureRecording: "https://youtu.be/fAZXXVh5Zjk"
     LectureNotes: "/assets/16b/lecture-notes/lecture1B.pdf"
     Note:
       - number: "1"
@@ -20,7 +20,7 @@ syllabus:
     DiscussionPDF: "/assets/16b/discussions/dis01B.pdf"
     HomeworkContinues: true
   - topic: "Computing: Transient Analysis, Intro to Differential Equations"
-    LectureRecording: "https://youtu.be/ez3_R4VcPXg"
+    LectureRecording: "https://youtu.be/RtxkjgC9PV4"
     LectureNotes: "/assets/16b/lecture-notes/lecture2A.pdf"
     Note:
       - number: "2"
@@ -33,13 +33,13 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob02.pdf"
   - topic: "Signal Processing: First-order Circuits, General Scalar Differential Equations"
-    LectureRecording: "https://youtu.be/9VzviF1-mLA"
+    LectureRecording: "https://youtu.be/GIo_sPguNK4"
     LectureNotes: "/assets/16b/lecture-notes/lecture2B.pdf"
     DiscussionName: "2B"
     DiscussionPDF: "/assets/16b/discussions/dis02B.pdf"
     HomeworkContinues: true
   - topic: "Signal Processing: Second-order Circuits, Vector Differential Equations (VDEs)"
-    LectureRecording: "https://youtu.be/ZTrswmukmy8"
+    LectureRecording: "https://youtu.be/THg4_tFrLjA"
     LectureNotes: "/assets/16b/lecture-notes/lecture3A.pdf"
     Note:
       - number: "3A"
@@ -51,13 +51,13 @@ syllabus:
     HomeworkPDF: "/assets/16b/homeworks/prob03.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1cCUQdnKfypHWdDdizu9HuhKcmknh3ekW?usp=share_link"
   - topic: "Signal Processing: Diagonalization to Solve VDEs and Intro to Inductors"
-    LectureRecording: "https://youtu.be/AR7J8m3QDDw"
+    LectureRecording: "https://youtu.be/ux15yO-Ft4M"
     LectureNotes: "/assets/16b/lecture-notes/lecture3B.pdf"
     DiscussionName: "3B"
     DiscussionPDF: "/assets/16b/discussions/dis03B.pdf"
     HomeworkContinues: true
   - topic: "Signal Processing: Inductors, RLC Circuits, Complex Numbers"
-    LectureRecording: "https://youtu.be/Y8eC8Med_BA"
+    LectureRecording: "https://youtu.be/AhzTSPv9Us8"
     LectureNotes: "/assets/16b/lecture-notes/lecture4A.pdf"
     Note:
       - number: "3B"
@@ -68,7 +68,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob04.pdf"
   - topic: "Signal Processing: Phasors and RLC Circuit Analysis"
-    LectureRecording: "https://youtu.be/qrxbUpADKIA"
+    LectureRecording: "https://youtu.be/9a-mDW5M5SQ"
     LectureNotes: "/assets/16b/lecture-notes/lecture4B.pdf"
     Note:
       - number: "4"
@@ -77,7 +77,7 @@ syllabus:
     DiscussionPDF: "/assets/16b/discussions/dis04B.pdf"
     HomeworkContinues: true
   - topic: "Signal Processing: Frequency Response and Bode Plots"
-    LectureRecording: "https://youtu.be/wd7lZZ6kgbo"
+    LectureRecording: "https://youtu.be/628FDuGkvb0"
     LectureNotes: "/assets/16b/lecture-notes/lecture5A.pdf"
     Note:
       - number: "5"
