@@ -4,7 +4,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note0.pdf
         number: "0"
-    DiscussionPDF: "https://drive.google.com/file/d/1oAj-AEz7FulqSxPELRV5hTUVFJcRq3hJ/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_0b_problems.pdf"
     DiscussionName: "0B"
     DiscussionNotebook: ""
     HomeworkNumber: 0
@@ -16,7 +16,7 @@ syllabus:
     Note:
       - link: /assets/16a/notes/Note1A.pdf
         number: "1A"
-    DiscussionPDF: "https://drive.google.com/file/d/1rRr-zTpbvINxFfUeKKcSn8OgTWUC10rB/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_1a_problems.pdf"
     DiscussionName: "1A"
     DiscussionNotebook: ""
     HomeworkNumber: 1
@@ -30,7 +30,7 @@ syllabus:
         number: "1A"
       - link: /assets/16a/notes/Note1B.pdf
         number: "1B"
-    DiscussionPDF: "https://drive.google.com/file/d/1Q1vcHXSdIxHZ3sAlu5WntPC_ukc1nuwD/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_1b_problems.pdf"
     DiscussionName: "1B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -44,19 +44,17 @@ syllabus:
         number: "2B"
       - link: /assets/16a/notes/Note4.pdf
         number: "4"
-    DiscussionPDF: "https://drive.google.com/file/d/1dncdG2XWBPAMQ3TMAzA85e_KikVeKA9a/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_2a_problems.pdf"
     DiscussionName: "2A"
     DiscussionNotebook: ""
     HomeworkNumber: 2
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_2_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1ebRFnbz9Qp2IUvjeC5yhhwKoaU6HXlhE?usp=sharing"
-  - topic: "Lecture 5: Span, linear independence and dependence"
+  - topic: "Lecture 5: Span, linear independence and dependence (continued)"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
-    Note: 
-      - link: /assets/16a/notes/Note11A.pdf
-        number: "11A"
-    DiscussionPDF: "https://drive.google.com/file/d/1MIDiu-cBd8617P46FVdChoBdzoTs3dkx/view?usp=sharing"
+    Note:
+    DiscussionPDF: "/assets/16a/discussions/discussion_2b_problems.pdf"
     DiscussionName: "2B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -68,7 +66,7 @@ syllabus:
         number: "3"
       - link: /assets/16a/notes/Note5.pdf
         number: "5"
-    DiscussionPDF: "https://drive.google.com/file/d/1M1mYf1dAHRN1fFeB9cKNsDoxBlSgzznE/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_3a_problems.pdf"
     DiscussionName: "3A"
     DiscussionNotebook: ""
     HomeworkNumber: 3
@@ -82,7 +80,7 @@ syllabus:
         number: "5"
       - link: /assets/16a/notes/Note6.pdf
         number: "6"
-    DiscussionPDF: "https://drive.google.com/file/d/1WVQCGw04_ner9mW4aUpNp6BUBNlV5DhZ/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_3b_problems.pdf"
     DiscussionName: "3B"
     DiscussionNotebook: "https://colab.research.google.com/drive/1JZiO7jIG1k6wehSltxudCPQKL_AAN1Tg?usp=sharing"
     HomeworkContinues: true
@@ -94,7 +92,7 @@ syllabus:
         number: "7"
       - link: /assets/16a/notes/Note8.pdf
         number: "8"
-    DiscussionPDF: "https://drive.google.com/file/d/1a9gylA4DBvp49FoBTWEpmWfnrj9d1e7Z/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_4a_problems.pdf"
     DiscussionName: "4A"
     DiscussionNotebook: ""
     HomeworkNumber: 4
@@ -106,7 +104,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note7.pdf
         number: "7"
-    DiscussionPDF: "https://drive.google.com/file/d/1hlZCper286TxqGwAU7kP0gegLC-R_yIr/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_4b_problems.pdf"
     DiscussionName: "4B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -118,7 +116,7 @@ syllabus:
         number: "8"
       - link: /assets/16a/notes/Note9.pdf
         number: "9"
-    DiscussionPDF: "https://drive.google.com/file/d/1wlFM9-QEcTtntirGB1CPKCYtPj2NycHB/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_5a_problems.pdf"
     DiscussionName: "5A"
     DiscussionNotebook: ""
     HomeworkNotebook: ""
@@ -127,13 +125,13 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note9.pdf
         number: "9"
-    DiscussionPDF: "https://drive.google.com/file/d/1lXy-X-1hSJaQwLFZZuifGuIWjpVMUrwm/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_5b_problems.pdf"
     DiscussionName: "5B"
     DiscussionNotebook: ""
     HomeworkNotebook: ""
   - topic: ""
     Note: 
-    DiscussionPDF: "https://drive.google.com/file/d/1pXPVcx3hc2cn7Wop2jctHgsezp8l3eoH/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_6a_problems.pdf"
     DiscussionName: "6A"
     DiscussionNotebook: ""
     HomeworkNumber: 6
@@ -147,7 +145,7 @@ syllabus:
         number: "11A"
       - link: /assets/16a/notes/Note11B.pdf
         number: "11B"
-    DiscussionPDF: "https://drive.google.com/file/d/1jejxHb9sYhVDlrcMuRGazgIhDOGLV4FL/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_6b_problems.pdf"
     DiscussionName: "6B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -157,7 +155,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note11B.pdf
         number: "11B"
-    DiscussionPDF: "https://drive.google.com/file/d/1F_joddd1xkE4-sMKnGWdaYgQQjwUAJW0/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_7a_problems.pdf"
     DiscussionName: "7A"
     DiscussionNotebook: ""
     HomeworkNumber: 7
@@ -169,7 +167,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note12.pdf
         number: "12"
-    DiscussionPDF: "https://drive.google.com/file/d/1cxYrMEBuSZDjWUQ8QzNakQ2Igsh11iNG/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_7b_problems.pdf"
     DiscussionName: "7B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -179,7 +177,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note13.pdf
         number: "13"
-    DiscussionPDF: "https://drive.google.com/file/d/13bC2Ezbeofp5dZbymjzmDSAdTtpSbefI/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_8a_problems.pdf"
     DiscussionName: "8A"
     DiscussionNotebook: ""
     HomeworkNumber: 8
@@ -191,17 +189,17 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note14.pdf
         number: "14"
-    DiscussionPDF: "https://drive.google.com/file/d/11aoPEosvBvm4PmYvWwkqQpNjxH6ryUn0/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_8b_problems.pdf"
     DiscussionName: "8B"
     DiscussionNotebook: ""
     HomeworkContinues: true
     HomeworkNotebook: ""
-  - topic: "Lecture 17: Capacitors"
+  - topic: "Lecture 17: Capacitors (continued)"
     LectureRecording: "https://youtu.be/C99Jv-At2O0"
     Note: 
       - link: /assets/16a/notes/Note15.pdf
         number: "15"
-    DiscussionPDF: "https://drive.google.com/file/d/13ped9p_WO_7EGic1pa4QMvkQCm7ASx6K/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_9a_problems.pdf"
     DiscussionName: "9A"
     DiscussionNotebook: ""
     HomeworkNumber: 9
@@ -213,7 +211,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note16.pdf
         number: "16"
-    DiscussionPDF: "https://drive.google.com/file/d/1W4-HbHEeDN6tfakJbP-k1ADDuC82-Sj9/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_9b_problems.pdf"
     DiscussionName: "9B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -223,7 +221,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note17.pdf
         number: "17"
-    DiscussionPDF: "https://drive.google.com/file/d/1WdeoKBf20Qg1S0XwzqsXSV5VfQ-9ee13/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_10a_problems.pdf"
     DiscussionName: "10A"
     DiscussionNotebook: ""
     HomeworkNumber: 10
@@ -235,7 +233,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note17.pdf
         number: "17"
-    DiscussionPDF: "https://drive.google.com/file/d/1qjCqAmBUZX2PMpg6esCCUdr7N5AQqyjZ/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_10b_problems.pdf"
     DiscussionName: "10B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -245,7 +243,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note18.pdf
         number: "18"
-    DiscussionPDF: "https://drive.google.com/file/d/1XvoFlhUMFJZhoL4SugbOza1Mk46kCB7f/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_11a_problems.pdf"
     DiscussionName: "11A"
     DiscussionNotebook: ""
     HomeworkNumber: 11
@@ -254,7 +252,7 @@ syllabus:
     HomeworkNotebook: ""
   - topic: ""
     Note: 
-    DiscussionPDF: "https://drive.google.com/file/d/1gTTZOA2GmFWWdJh3K6CrqVjM7wuPYtno/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_11b_problems.pdf"
     DiscussionName: "11B"
     DiscussionNotebook: ""
     HomeworkContinues: true
@@ -264,7 +262,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note19.pdf
         number: "19"
-    DiscussionPDF: "https://drive.google.com/file/d/1gTTZOA2GmFWWdJh3K6CrqVjM7wuPYtno/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_12a_problems.pdf"
     DiscussionName: "12A"
     DiscussionNotebook: ""
     HomeworkNumber: 12
@@ -276,7 +274,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note20.pdf
         number: "20"
-    DiscussionPDF: "https://drive.google.com/file/d/1o3ocZutP7Tfz_aeG9Mk-Bkw0xbp0dunA/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_12b_problems.pdf"
     DiscussionName: "12B"
     DiscussionNotebook: ""
   - topic: "Lecture 24: Correlation and Classification"
@@ -284,7 +282,7 @@ syllabus:
     Note: 
       - link: /assets/16a/notes/Note21.pdf
         number: "21"
-    DiscussionPDF: "https://drive.google.com/file/d/1tenLiBx7RtLFsxoNO0k1qka6pmGDGvdz/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_13a_problems.pdf"
     DiscussionName: "13A"
     DiscussionNotebook: ""
     HomeworkNumber: 13
@@ -293,8 +291,6 @@ syllabus:
     HomeworkNotebook: "https://colab.research.google.com/drive/1pGQNhWnL74SmLmJYIitg6OJiPOBWu2A9?usp=sharing"
   - topic: ""
     Note:
-      - link: /assets/16a/notes/Note22.pdf
-        number: "22"
     DiscussionPDF: ""
     DiscussionName: ""
     DiscussionNotebook: ""
@@ -306,14 +302,14 @@ syllabus:
         number: "22"
       - link: /assets/16a/notes/Note23.pdf
         number: "23"
-    DiscussionPDF: "https://drive.google.com/file/d/1gLvSGrG9ddbmEUE3z0yPlMqJxqGbStPn/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_14a_problems.pdf"
     DiscussionName: "14A"
     DiscussionNotebook: ""
     HomeworkNotebook: ""
   - topic: "Lecture 26: Least Squares Algorithm (continued)"
     LectureRecording: "https://youtu.be/NdAKhzmawkY"
     Note: 
-    DiscussionPDF: "https://drive.google.com/file/d/1pcuLYUi-GhxQjqYikN_uNOlI8GtMtUpX/view?usp=sharing"
+    DiscussionPDF: "/assets/16a/discussions/discussion_14b_problems.pdf"
     DiscussionName: "14B"
     DiscussionNotebook: "https://colab.research.google.com/drive/1LgJsfo79TC9_rdnVqFY_N4GLBZ95iCq_?usp=sharing"
     HomeworkNotebook: ""

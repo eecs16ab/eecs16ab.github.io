@@ -16,3 +16,8 @@ vendor/
 
 .DS_Store
 solutions/
+
+# Local archival sources and extracted lab package; neither is published.
+EECS16A_ Designing Information Devices and Systems I, Fall 2023.html
+EECS16B_ Designing Information Devices and Systems II, Spring 2021.html
+assets/16b/labs/lab1_sp21/
