@@ -87,7 +87,7 @@ syllabus:
     HomeworkPDF: "/assets/16b/homeworks/prob05.pdf"
     HomeworkNotebook: "https://drive.google.com/drive/folders/1m9KPeldup52Lb1wWMYq0__u-9dlOg-0x?usp=share_link"
   - topic: "Signal Processing: Frequency Response of RLC Circuits"
-    LectureRecording: "https://youtu.be/hIXN38pmlQY"
+    LectureRecording: "https://youtu.be/uVeKqR7uDMM"
     LectureNotes: "/assets/16b/lecture-notes/lecture5B.pdf"
     Note:
       - number: "6"
@@ -96,7 +96,7 @@ syllabus:
     DiscussionPDF: "/assets/16b/discussions/dis05B.pdf"
     HomeworkContinues: true
   - topic: "Signal Processing: Frequency Response of RLC Circuits and Applications"
-    LectureRecording: "https://youtu.be/qgLdoYOZMrI"
+    LectureRecording: "https://youtu.be/z16cWQlvy24"
     LectureNotes: "/assets/16b/lecture-notes/lecture6A.pdf"
     DiscussionName: "6A"
     DiscussionPDF: "/assets/16b/discussions/dis06A.pdf"
@@ -105,7 +105,7 @@ syllabus:
     HomeworkPDF: "/assets/16b/homeworks/prob06.pdf"
     HomeworkNotebook: "https://drive.google.com/drive/folders/1xN2vo3hoO_yV7Z6HHixT71j_tqAN0dFO?usp=share_link"
   - topic: "Robotics: Basics Concepts for Control in Discrete Time"
-    LectureRecording: "https://youtu.be/9L6F9VnkJ4k"
+    LectureRecording: "https://youtu.be/jPSsUY6Nw30"
     LectureNotes: "/assets/16b/lecture-notes/lecture6B.pdf"
     Note:
       - number: "7A"
@@ -116,7 +116,7 @@ syllabus:
     DiscussionPDF: "/assets/16b/discussions/dis06B.pdf"
     HomeworkContinues: true
   - topic: "Robotics: System Identification"
-    LectureRecording: "https://youtu.be/VtOqIqTqm8I"
+    LectureRecording: "https://youtu.be/6MsKchUBVGU"
     LectureNotes: "/assets/16b/lecture-notes/lecture7A.pdf"
     Note:
       - number: "8"
@@ -128,13 +128,13 @@ syllabus:
     HomeworkPDF: "/assets/16b/homeworks/prob07.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1k-8NC7hdTi2KhP4UDjz3RkIm-2qkNVxB?usp=sharing"
   - topic: "Robotics: Feedback Stabilization"
-    LectureRecording: "https://youtu.be/83m3ak5nKSc"
+    LectureRecording: "https://youtu.be/fO9_wCtbmQk"
     LectureNotes: "/assets/16b/lecture-notes/lecture7B.pdf"
     DiscussionName: "7B"
     DiscussionPDF: "/assets/16b/discussions/dis07B.pdf"
     HomeworkContinues: true
   - topic: "Robotics: Controllability"
-    LectureRecording: "https://youtu.be/yWJ4NNUD-Io"
+    LectureRecording: "https://youtu.be/VF4zBxwrl38"
     LectureNotes: "/assets/16b/lecture-notes/lecture8A.pdf"
     Note:
       - number: "9"
@@ -146,13 +146,13 @@ syllabus:
     HomeworkPDF: "/assets/16b/homeworks/prob08.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/19R22IOoCrwyoJp9wB1N4f-aSGoE2TwzJ?usp=share_link"
   - topic: "Learning: Gram-Schmidt"
-    LectureRecording: "https://youtu.be/WhU1MlmHQV4"
+    LectureRecording: "https://youtu.be/QwzXAZvWQh0"
     LectureNotes: "/assets/16b/lecture-notes/lecture8B.pdf"
     DiscussionName: "8B"
     DiscussionPDF: "/assets/16b/discussions/dis08B.pdf"
     HomeworkContinues: true
   - topic: "Robotics: Stability Continued"
-    LectureRecording: "https://youtu.be/lyt3QtqXlPk"
+    LectureRecording: "https://youtu.be/WEhIUk25-1o"
     LectureNotes: "/assets/16b/lecture-notes/lecture9A.pdf"
     Note:
       - number: "10A"
@@ -175,7 +175,7 @@ syllabus:
     DiscussionPDF: "/assets/16b/discussions/dis09B.pdf"
     HomeworkContinues: true
   - topic: "Robotics and Learning: Minimum Energy Solutions"
-    LectureRecording: "https://youtu.be/sYRaM7TZJ1k"
+    LectureRecording: "https://youtu.be/jEZUR_flEQA"
     LectureNotes: "/assets/16b/lecture-notes/lecture10A.pdf"
     Note:
       - number: "12"
@@ -187,7 +187,7 @@ syllabus:
     HomeworkPDF: "/assets/16b/homeworks/prob10.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1I7rXbaA9RZqtcOkhkI3H81IKX2YkmS7J?usp=sharing"
   - topic: "Learning: SVD"
-    LectureRecording: "https://youtu.be/Qv9XkHQf8gI"
+    LectureRecording: "https://youtu.be/1Y8vbxBkqeA"
     LectureNotes: "/assets/16b/lecture-notes/lecture10B.pdf"
     Note:
       - number: "13"
