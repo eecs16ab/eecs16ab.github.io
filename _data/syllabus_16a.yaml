@@ -51,7 +51,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_2_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1ebRFnbz9Qp2IUvjeC5yhhwKoaU6HXlhE?usp=sharing"
-  - topic: "Lecture 5: Span, linear independence and dependence"
+  - topic: "Lecture 5: Span, linear independence and dependence (continued), Introduction to circuits"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
     Note:
       - link: /assets/16a/notes/Note11A.pdf
