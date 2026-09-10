@@ -1,5 +1,5 @@
 syllabus:
-  - topic: "16A Review and Equivalent Circuits"
+  - topic: "Lecture 1: 16A Review and Equivalent Circuits"
     LectureRecording: "https://youtu.be/SJEfn-JIVBY"
     LectureNotes: "/assets/16b/lecture-notes/lecture1A.pdf"
     Note:
@@ -10,7 +10,7 @@ syllabus:
     HomeworkNumber: "01"
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob01.pdf"
-  - topic: "Computing: Transistors and Logic"
+  - topic: "Lecture 2: Computing - Transistors and Logic"
     LectureRecording: "https://youtu.be/fAZXXVh5Zjk"
     LectureNotes: "/assets/16b/lecture-notes/lecture1B.pdf"
     Note:
@@ -19,7 +19,7 @@ syllabus:
     DiscussionName: "1B"
     DiscussionPDF: "/assets/16b/discussions/dis01B.pdf"
     HomeworkContinues: true
-  - topic: "Computing: Transient Analysis, Intro to Differential Equations"
+  - topic: "Lecture 3: Computing - Transient Analysis, Intro to Differential Equations"
     LectureRecording: "https://youtu.be/RtxkjgC9PV4"
     LectureNotes: "/assets/16b/lecture-notes/lecture2A.pdf"
     Note:
@@ -32,13 +32,13 @@ syllabus:
     HomeworkNumber: "02"
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob02.pdf"
-  - topic: "Signal Processing: First-order Circuits, General Scalar Differential Equations"
+  - topic: "Lecture 4: Signal Processing - First-order Circuits, General Scalar Differential Equations"
     LectureRecording: "https://youtu.be/GIo_sPguNK4"
     LectureNotes: "/assets/16b/lecture-notes/lecture2B.pdf"
     DiscussionName: "2B"
     DiscussionPDF: "/assets/16b/discussions/dis02B.pdf"
     HomeworkContinues: true
-  - topic: "Signal Processing: Second-order Circuits, Vector Differential Equations (VDEs)"
+  - topic: "Lecture 5: Signal Processing - Second-order Circuits, Vector Differential Equations (VDEs)"
     LectureRecording: "https://youtu.be/THg4_tFrLjA"
     LectureNotes: "/assets/16b/lecture-notes/lecture3A.pdf"
     Note:
@@ -50,13 +50,13 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob03.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1cCUQdnKfypHWdDdizu9HuhKcmknh3ekW?usp=share_link"
-  - topic: "Signal Processing: Diagonalization to Solve VDEs and Intro to Inductors"
+  - topic: "Lecture 6: Signal Processing - Diagonalization to Solve VDEs and Intro to Inductors"
     LectureRecording: "https://youtu.be/ux15yO-Ft4M"
     LectureNotes: "/assets/16b/lecture-notes/lecture3B.pdf"
     DiscussionName: "3B"
     DiscussionPDF: "/assets/16b/discussions/dis03B.pdf"
     HomeworkContinues: true
-  - topic: "Signal Processing: Inductors, RLC Circuits, Complex Numbers"
+  - topic: "Lecture 7: Signal Processing - Inductors, RLC Circuits, Complex Numbers"
     LectureRecording: "https://youtu.be/AhzTSPv9Us8"
     LectureNotes: "/assets/16b/lecture-notes/lecture4A.pdf"
     Note:
@@ -67,7 +67,7 @@ syllabus:
     HomeworkNumber: "04"
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob04.pdf"
-  - topic: "Signal Processing: Phasors and RLC Circuit Analysis"
+  - topic: "Lecture 8: Signal Processing - Phasors and RLC Circuit Analysis"
     LectureRecording: "https://youtu.be/9a-mDW5M5SQ"
     LectureNotes: "/assets/16b/lecture-notes/lecture4B.pdf"
     Note:
@@ -76,7 +76,7 @@ syllabus:
     DiscussionName: "4B"
     DiscussionPDF: "/assets/16b/discussions/dis04B.pdf"
     HomeworkContinues: true
-  - topic: "Signal Processing: Frequency Response and Bode Plots"
+  - topic: "Lecture 9: Signal Processing - Frequency Response and Bode Plots"
     LectureRecording: "https://youtu.be/628FDuGkvb0"
     LectureNotes: "/assets/16b/lecture-notes/lecture5A.pdf"
     Note:
@@ -86,7 +86,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob05.pdf"
     HomeworkNotebook: "https://drive.google.com/drive/folders/1m9KPeldup52Lb1wWMYq0__u-9dlOg-0x?usp=share_link"
-  - topic: "Signal Processing: Frequency Response of RLC Circuits"
+  - topic: "Lecture 10: Signal Processing - Frequency Response of RLC Circuits"
     LectureRecording: "https://youtu.be/uVeKqR7uDMM"
     LectureNotes: "/assets/16b/lecture-notes/lecture5B.pdf"
     Note:
@@ -95,7 +95,7 @@ syllabus:
     DiscussionName: "5B"
     DiscussionPDF: "/assets/16b/discussions/dis05B.pdf"
     HomeworkContinues: true
-  - topic: "Signal Processing: Frequency Response of RLC Circuits and Applications"
+  - topic: "Lecture 11: Signal Processing - Frequency Response of RLC Circuits and Applications"
     LectureRecording: "https://youtu.be/z16cWQlvy24"
     LectureNotes: "/assets/16b/lecture-notes/lecture6A.pdf"
     DiscussionName: "6A"
@@ -104,7 +104,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob06.pdf"
     HomeworkNotebook: "https://drive.google.com/drive/folders/1xN2vo3hoO_yV7Z6HHixT71j_tqAN0dFO?usp=share_link"
-  - topic: "Robotics: Basics Concepts for Control in Discrete Time"
+  - topic: "Lecture 12: Robotics - Basics Concepts for Control in Discrete Time"
     LectureRecording: "https://youtu.be/jPSsUY6Nw30"
     LectureNotes: "/assets/16b/lecture-notes/lecture6B.pdf"
     Note:
@@ -115,7 +115,7 @@ syllabus:
     DiscussionName: "6B"
     DiscussionPDF: "/assets/16b/discussions/dis06B.pdf"
     HomeworkContinues: true
-  - topic: "Robotics: System Identification"
+  - topic: "Lecture 13: Robotics - System Identification"
     LectureRecording: "https://youtu.be/6MsKchUBVGU"
     LectureNotes: "/assets/16b/lecture-notes/lecture7A.pdf"
     Note:
@@ -127,13 +127,13 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob07.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1k-8NC7hdTi2KhP4UDjz3RkIm-2qkNVxB?usp=sharing"
-  - topic: "Robotics: Feedback Stabilization"
+  - topic: "Lecture 14: Robotics - Feedback Stabilization"
     LectureRecording: "https://youtu.be/fO9_wCtbmQk"
     LectureNotes: "/assets/16b/lecture-notes/lecture7B.pdf"
     DiscussionName: "7B"
     DiscussionPDF: "/assets/16b/discussions/dis07B.pdf"
     HomeworkContinues: true
-  - topic: "Robotics: Controllability"
+  - topic: "Lecture 15: Robotics - Controllability"
     LectureRecording: "https://youtu.be/VF4zBxwrl38"
     LectureNotes: "/assets/16b/lecture-notes/lecture8A.pdf"
     Note:
@@ -145,13 +145,13 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob08.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/19R22IOoCrwyoJp9wB1N4f-aSGoE2TwzJ?usp=share_link"
-  - topic: "Learning: Gram-Schmidt"
+  - topic: "Lecture 16: Learning - Gram-Schmidt"
     LectureRecording: "https://youtu.be/QwzXAZvWQh0"
     LectureNotes: "/assets/16b/lecture-notes/lecture8B.pdf"
     DiscussionName: "8B"
     DiscussionPDF: "/assets/16b/discussions/dis08B.pdf"
     HomeworkContinues: true
-  - topic: "Robotics: Stability Continued"
+  - topic: "Lecture 17: Robotics - Stability Continued"
     LectureRecording: "https://youtu.be/WEhIUk25-1o"
     LectureNotes: "/assets/16b/lecture-notes/lecture9A.pdf"
     Note:
@@ -165,8 +165,8 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob09.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1tAurW4r6OGWUvlBxMmxUfbZzb_EImQZf?usp=share_link"
-  - topic: "Learning: The Spectral Theorem"
-    LectureRecording: "https://youtu.be/C-rvWPJs0x8"
+  - topic: "Lecture 18: Learning - The Spectral Theorem"
+    LectureRecording: "https://youtu.be/zdUTwPulKN8"
     LectureNotes: "/assets/16b/lecture-notes/lecture9B.pdf"
     Note:
       - number: "11"
@@ -174,7 +174,7 @@ syllabus:
     DiscussionName: "9B"
     DiscussionPDF: "/assets/16b/discussions/dis09B.pdf"
     HomeworkContinues: true
-  - topic: "Robotics and Learning: Minimum Energy Solutions"
+  - topic: "Lecture 19: Robotics and Learning - Minimum Energy Solutions"
     LectureRecording: "https://youtu.be/jEZUR_flEQA"
     LectureNotes: "/assets/16b/lecture-notes/lecture10A.pdf"
     Note:
@@ -186,7 +186,7 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob10.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1I7rXbaA9RZqtcOkhkI3H81IKX2YkmS7J?usp=sharing"
-  - topic: "Learning: SVD"
+  - topic: "Lecture 20: Learning - SVD"
     LectureRecording: "https://youtu.be/1Y8vbxBkqeA"
     LectureNotes: "/assets/16b/lecture-notes/lecture10B.pdf"
     Note:
@@ -195,8 +195,8 @@ syllabus:
     DiscussionName: "10B"
     DiscussionPDF: "/assets/16b/discussions/dis10B.pdf"
     HomeworkContinues: true
-  - topic: "Learning: Classification and PCA"
-    LectureRecording: "https://youtu.be/eRCN9A2Uwa4"
+  - topic: "Lecture 21: Learning - Classification and PCA"
+    LectureRecording: "https://youtu.be/BL8lis3ggLk"
     LectureNotes: "/assets/16b/lecture-notes/lecture11A.pdf"
     Note:
       - number: "14"
@@ -206,14 +206,14 @@ syllabus:
     HomeworkNumber: "11"
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob11.pdf"
-  - topic: "Learning: PCA Continued"
-    LectureRecording: "https://youtu.be/_9lq24Lwy6g"
+  - topic: "Lecture 22: Learning - PCA Continued"
+    LectureRecording: "https://youtu.be/92vOghOAZTk"
     LectureNotes: "/assets/16b/lecture-notes/lecture11B.pdf"
     DiscussionName: "11B"
     DiscussionPDF: "/assets/16b/discussions/dis11B.pdf"
     HomeworkContinues: true
-  - topic: "Local Linearization for Nonlinear Control Problems"
-    LectureRecording: "https://youtu.be/piXv45H9J5E"
+  - topic: "Lecture 23: Local Linearization for Nonlinear Control Problems"
+    LectureRecording: "https://youtu.be/Msi5ohPkV3w"
     LectureNotes: "/assets/16b/lecture-notes/lecture12A.pdf"
     Note:
       - number: "15"
@@ -224,14 +224,14 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob12.pdf"
     HomeworkNotebook: "https://drive.google.com/drive/folders/1WH5zU1WrhWuxznH65lmC5KHCuQUzym7c?usp=sharing"
-  - topic: "Linearization for Classification"
-    LectureRecording: "https://youtu.be/c3TAF440QTY"
+  - topic: "Lecture 24: Linearization for Classification"
+    LectureRecording: "https://youtu.be/IGlWJ10MDJg"
     LectureNotes: "/assets/16b/lecture-notes/lecture12B.pdf"
     DiscussionName: "12B"
     DiscussionPDF: "/assets/16b/discussions/dis12B.pdf"
     HomeworkContinues: true
-  - topic: "Linearization (Quadratic Approximation)"
-    LectureRecording: "https://youtu.be/EBdBbMYxUj4"
+  - topic: "Lecture 25: Linearization (Quadratic Approximation)"
+    LectureRecording: "https://youtu.be/XcjvlBd_jys"
     LectureNotes: "/assets/16b/lecture-notes/lecture13A.pdf"
     Note:
       - number: "16"
@@ -242,14 +242,14 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob13.pdf"
     HomeworkNotebook: "https://drive.google.com/drive/folders/11pogalZuFFNCpv69wKrEgFHph_WBcimt?usp=share_link"
-  - topic: "Classification"
-    LectureRecording: "https://youtu.be/ORW-_LvOhe0"
+  - topic: "Lecture 26: Classification"
+    LectureRecording: "https://youtu.be/LSNWsAbtEF4"
     LectureNotes: "/assets/16b/lecture-notes/lecture13B.pdf"
     DiscussionName: "13B"
     DiscussionPDF: "/assets/16b/discussions/dis13B.pdf"
     HomeworkContinues: true
-  - topic: "DFT"
-    LectureRecording: "https://youtu.be/5uJGXUQSnWc"
+  - topic: "Lecture 27: DFT"
+    LectureRecording: "https://youtu.be/gOAal0aogDQ"
     LectureNotes: "/assets/16b/lecture-notes/lecture14A.pdf"
     Note:
       - number: "17"
@@ -260,8 +260,8 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16b/homeworks/prob14.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1RfoiO9NKr8VO3bBBoYVJYGkJZngBlSF1?usp=sharing"
-  - topic: "DFT"
-    LectureRecording: "https://youtu.be/RllKfX6qASg"
+  - topic: "Lecture 28: DFT"
+    LectureRecording: "https://youtu.be/T1pketXEk2U"
     LectureNotes: "/assets/16b/lecture-notes/lecture14B.pdf"
     DiscussionName: "14B"
     DiscussionPDF: "/assets/16b/discussions/dis14B.pdf"
