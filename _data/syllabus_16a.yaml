@@ -51,9 +51,11 @@ syllabus:
     HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_2_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1ebRFnbz9Qp2IUvjeC5yhhwKoaU6HXlhE?usp=sharing"
-  - topic: "Lecture 5: Span, linear independence and dependence (continued)"
+  - topic: "Lecture 5: Span, linear independence and dependence"
     LectureRecording: "https://youtu.be/EkYNGGbDr3w"
     Note:
+      - link: /assets/16a/notes/Note11A.pdf
+        number: "11A"
     DiscussionPDF: "/assets/16a/discussions/discussion_2b_problems.pdf"
     DiscussionName: "2B"
     DiscussionNotebook: ""
@@ -277,6 +279,7 @@ syllabus:
     DiscussionPDF: "/assets/16a/discussions/discussion_12b_problems.pdf"
     DiscussionName: "12B"
     DiscussionNotebook: ""
+    HomeworkContinues: true
   - topic: "Lecture 24: Correlation and Classification"
     LectureRecording: "https://youtu.be/N0bj1icrJiA"
     Note: 
@@ -286,7 +289,7 @@ syllabus:
     DiscussionName: "13A"
     DiscussionNotebook: ""
     HomeworkNumber: 13
-    HomeworkRowspan: 1
+    HomeworkRowspan: 2
     HomeworkPDF: "/assets/16a/homework/homework_13_problems.pdf"
     HomeworkNotebook: "https://colab.research.google.com/drive/1pGQNhWnL74SmLmJYIitg6OJiPOBWu2A9?usp=sharing"
   - topic: ""
@@ -294,6 +297,7 @@ syllabus:
     DiscussionPDF: ""
     DiscussionName: ""
     DiscussionNotebook: ""
+    HomeworkContinues: true
     HomeworkNotebook: ""
   - topic: "Lecture 25: Least Squares Algorithm"
     LectureRecording: "https://youtu.be/GsmHHW1csTU"
